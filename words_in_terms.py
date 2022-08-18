@@ -1,9 +1,8 @@
 import pandas as pd
-from tabulate import tabulate
 
 
-def get_words(data_folder: str, class_: int) -> dict:
-    df = pd.read_excel(f"{data_folder}/class{class_}.xls", header=0, skiprows=[0])
+def get_words(data_folder: str, c: int) -> dict:
+    df = pd.read_excel(f"{data_folder}/class{c}.xls", header=0, skiprows=[0])
     df = df[df.Status == 'Active']
     term = df.Term.to_list()
     words_dict = {}
@@ -22,7 +21,12 @@ def count_words(words_dict: dict) -> dict:
     return num_of_words
 
 if __name__ == "__main__":
-    words_dict = get_words("/home/nhan/Desktop/other/cipo/data", 36)
+    REMOVED_WORDS = ['in', 'on', 'at', 'for', 'into', 'upon', 'up', 'from', 'the', 'a', 'an', 'of', 'and', 'or', 'be', 'use']
+    words_dict = get_words("data", 1)
     num_of_words = count_words(words_dict)
-    print(num_of_words)
-    print(len(num_of_words))
+    for word in REMOVED_WORDS:
+        if word in num_of_words:
+            del num_of_words[word]
+    
+    max_count = max(num_of_words, key=num_of_words.get)
+    print(max_count, num_of_words[max_count])

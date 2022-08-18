@@ -1,19 +1,38 @@
 from words_in_terms import get_words, count_words
+from glob import glob
+import pandas as pd
 
-DATAFOLDER = "/home/nhan/Desktop/other/cipo/data"
-threshold = 10
+REMOVED_WORDS = ['in', 'on', 'at', 'for', 'into', 'upon', 'up', 'from', 'the', 'a', 'an' 'of', 'and', 'or', 'be', 'use', 'let', 'with', 'real']
 
-term_9 = get_words(DATAFOLDER, 9)
-term_36 = get_words(DATAFOLDER, 36)
-num_of_word_class_9 = count_words(term_9)
-num_of_word_class_36 = count_words(term_36)
-# max_count = max(num_of_word_class_9, key=num_of_word_class_9.get)
-print(num_of_word_class_36['financial'])
+DATAFOLDER = "data"
 
-# count = 0
-# for term in term_9:
-#     for word in term_9[term]:
-#         if num_of_word_class_9[word] <= threshold and word in num_of_word_class_36:
-#             print(term, '-', word, num_of_word_class_9[word])
-#             count += 1
-# print(count)
+def find_overlap(data_folder, class_: list, threshold1:int, threshold2:int):
+    rare_words = {i: {} for i in class_}
+    num_of_words = {}
+    for i in class_:
+        num_of_words[i] = count_words(get_words(data_folder, i))
+    for i in class_:
+        terms = get_words(data_folder, i)
+        for t in terms:
+            for word in terms[t]:
+                if num_of_words[i][word] <= threshold1 and word not in REMOVED_WORDS:
+                    rare_words[i][word] = t
+    overlap_dict = {}
+    for i in class_:
+        for word, term in rare_words[i].items():
+            overlap_dict[term] = [i]
+            for j in class_:
+                try:
+                    if num_of_words[j][word] >= threshold2 and word not in REMOVED_WORDS:
+                        overlap_dict[term].append([j, word])
+                except KeyError:
+                    pass
+    count = 0
+    for key, value in overlap_dict.items():
+        if len(value) > 1:
+            count += 1
+            print(f"{count}. '{key}' in class {value[0]} overlaps with classes {value[1:]}")
+
+
+if __name__ == "__main__":
+    find_overlap(data_folder=DATAFOLDER, class_=[9, 36, 1], threshold1=30, threshold2=70)
