@@ -1,0 +1,1001 @@
+classnumber,termnumber,termname,termstatus,termcategory,termsource,effectivedate,refst13applicationnumber
+3,0,"perfumeries and cosmetics, namely skin care preparations, hair care preparations, body care preparations and make-up preparations",public,goods,CIPO_manual,-,300000171579300
+3,0,"cosmetics, namely skin care and make-up products, namely, foundation, concealers, skin lotions and creams, skin toners, skin refreshers, skin masks, facial cleansing foam, skin cleansing lotion, facial scrubs, foundation, concealers",public,goods,CIPO_manual,-,300000171579300
+18,0,cosmetic cases,public,goods,CIPO_manual,-,300000171579300
+28,0,"golf gloves, golf bags, golf balls, golf ball markers, golf tees, golf club protectors, golf bag covers, golf bag labels",public,goods,CIPO_manual,-,300000171579400
+20,0,"furniture namely classroom furniture, computer furniture, office furniture",public,goods,CIPO_manual,-,300000171581600
+3,0,shampoos and hair conditioners,public,goods,CIPO_manual,-,300000171582600
+3,0,"baby care products, namely, hair and body wash, body, bum and face butter, baby oil, baby powder, baby face serums, preparations for cleaning baby change mats",public,goods,CIPO_manual,-,300000171586900
+3,0,"skin care products, namely, skin care preparations, skin care creams, nipple butter, face butter, body butter, body butter for stretch marks, face serum, face wash, body wash, body powder, after-sun butter, beauty serums",public,goods,CIPO_manual,-,300000171586900
+3,0,"cleaning products, namely, bathroom cleaning preparations, kitchen cleaning preparations, glass cleaner",public,goods,CIPO_manual,-,300000171586900
+1,0,"chemical slurries of organic waste, namely, food waste, for use in biological processing systems to produce biogas",public,goods,CIPO_manual,-,300000171587600
+1,0,"chemical slurries of organic waste, namely, food waste, waste from food manufacturing plants, waste from beverage manufacturing plants, waste from distilleries and breweries, waste from corn milling plants, and waste water, for use in biological processing systems to produce biogas, transportation fuels, and chemical products",public,goods,CIPO_manual,-,300000171587600
+41,0,"education and entertainment services, namely, providing classes and instruction in the field of dance, physical fitness instruction",public,services,CIPO_manual,-,300000171588400
+41,0,"leadership, inspirational and motivational speaking services in the fields of physical fitness, nutrition, exercise and personal development",public,services,CIPO_manual,-,300000171588400
+41,0,"providing online electronic publications in the fields of physical fitness, nutrition, exercise and personal development",public,services,CIPO_manual,-,300000171588400
+8,0,"hand-operated implements, namely snow shovels, snow pushers, ice scrapers",public,goods,CIPO_manual,-,300000171590200
+8,0,hand-held tools,public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-held implements, namely shovels, spades, scrapers, hoes, rakes, brushes",public,goods,CIPO_manual,-,300000171590200
+8,0,shovels (hand tools),public,goods,CIPO_manual,-,300000171590200
+8,0,shovels (hand-operated),public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-operated snow moving apparatus, namely snow shovels, snow pushers, snow scrapers",public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-held snow moving apparatus, namely snow shovels, snow pushers, snow scrapers",public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-operated soil moving apparatus, namely shovels, spades, scrapers, hoes, rakes, brushes",public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-held soil moving apparatus, namely shovels, spades, scrapers, hoes, rakes, brushes",public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-operated surface clearing apparatus, namely scrapers, hoes, rakes, brushes",public,goods,CIPO_manual,-,300000171590200
+8,0,"hand-held surface clearing apparatus, namely scrapers, hoes, rakes, brushes",public,goods,CIPO_manual,-,300000171590200
+8,0,parts and fittings for the aforesaid,public,goods,CIPO_manual,-,300000171590200
+29,0,preserved vegetables and fruits,public,goods,CIPO_manual,-,300000171591000
+29,0,preserved pulses,public,goods,CIPO_manual,-,300000171591000
+29,0,processed pulses,public,goods,CIPO_manual,-,300000171591000
+43,0,"services for providing food and drink namely, snack bar services, and the provision of in-room dining",public,services,CIPO_manual,-,300000171592700
+43,0,"providing temporary hotel, cruise and lodging accommodations",public,services,CIPO_manual,-,300000171592700
+43,0,"travel agency services, namely, making reservations and bookings for hotels, restaurants and providing temporary hotel, cruise and lodging accommodations",public,services,CIPO_manual,-,300000171592700
+43,0,"reservation and booking services for hotels, restaurants and providing temporary hotel, cruise and lodging accommodations",public,services,CIPO_manual,-,300000171592700
+43,0,consultancy and advisory services relating to all the aforesaid,public,services,CIPO_manual,-,300000171592700
+41,0,"arranging, organizing and hosting social entertainment events namely, live dances, theatrical and musical performances, organized party events, wine and food tastings, stage shows, nightclub shows, and variety and comedy shows",public,services,CIPO_manual,-,300000171592700
+41,0,entertainment and education services in the nature of live dance and musical performances,public,services,CIPO_manual,-,300000171592700
+41,0,"providing information in the field of entertainment for passengers namely, for organized party events, wine and food tastings, stage shows, nightclub shows, variety and comedy shows, theatrical productions and musicals, programming in the field of music, theater and film",public,services,CIPO_manual,-,300000171592700
+41,0,"entertainment services, namely, organizing and conducting parties, wine and food tastings, arranging contests of skill and chance for passengers while on board, stage shows, nightclub shows, variety and comedy shows, and theatrical productions and musicals",public,services,CIPO_manual,-,300000171592700
+41,0,"entertainment services, namely, casino gaming",public,services,CIPO_manual,-,300000171592700
+41,0,"educational services, namely, conducting cooking classes, and conducting lectures and seminars in the fields of music, theatre, and film",public,services,CIPO_manual,-,300000171592700
+41,0,libraries,public,services,CIPO_manual,-,300000171592700
+41,0,in-cabin interactive television programming,public,services,CIPO_manual,-,300000171592700
+41,0,"health club services, namely, providing instruction, classes, and equipment in the field of physical exercise",public,services,CIPO_manual,-,300000171592700
+41,0,"organizing and hosting arts events and cultural entertainment performances, namely, singing, dancing and theatrical performances and cultural travel tours",public,services,CIPO_manual,-,300000171592700
+41,0,organization of exhibitions for cultural and educational purposes related to local travel destinations for passengers,public,services,CIPO_manual,-,300000171592700
+35,0,"services for providing food and drink namely, food and beverage concession stands",public,goods,CIPO_manual,-,300000171592700
+39,0,"transport of passengers and of goods namely cruise services, cruise ship services, transport of passengers and goods by bus, rail and car",public,services,CIPO_manual,-,300000171592700
+39,0,cruise services,public,services,CIPO_manual,-,300000171592700
+39,0,"travel agency services, namely, making reservations and taking bookings for transportation of passengers and goods",public,services,CIPO_manual,-,300000171592700
+39,0,travel tour operating services,public,services,CIPO_manual,-,300000171592700
+39,0,reservation services for transportation of passengers,public,services,CIPO_manual,-,300000171592700
+39,0,"land travel reservation services namely travel reservation services for passengers by bus, train and car",public,services,CIPO_manual,-,300000171592700
+39,0,train reservation services,public,services,CIPO_manual,-,300000171592700
+39,0,provision of information and advice relating to all the aforesaid services,public,services,CIPO_manual,-,300000171592700
+5,0,"dietary supplement, namely pre-workout formula in the form of powdered drink mixes and capsules for energy gain and enhanced training performance",public,goods,CIPO_manual,-,300000171593100
+38,0,providing access to information on the internet in the field of film and television production,public,services,CIPO_manual,-,300000171599400
+38,0,"transmission of images, voice and text messages via internet",public,services,CIPO_manual,-,300000171599400
+38,0,"providing online forums, chat rooms and electronic bulletin boards for the transmission of messages among users in the field of general interest",public,services,CIPO_manual,-,300000171599400
+38,0,"television broadcasting of films, radio and television broadcasts, also provided via the internet",public,services,CIPO_manual,-,300000171599400
+38,0,"providing access to the internet for educational, training, entertainment, cultural and sporting purposes in the field of films and television programs",public,services,CIPO_manual,-,300000171599400
+35,0,"advertising namely, advertising services of a radio and television advertising agency, bill-posting namely, advertising of goods and services of others, publication of publicity texts",public,goods,CIPO_manual,-,300000171599400
+35,0,"production of advertising films for others, advertising services for promoting a series of films for others, production of advertising materials for other",public,goods,CIPO_manual,-,300000171599400
+35,0,"retailing and wholesaling in the fields of: sound recording carriers and data carriers, namely pre-recorded cds and dvds containing audio and video clips, books, printed matter",public,goods,CIPO_manual,-,300000171599400
+35,0,business administration,public,goods,CIPO_manual,-,300000171599400
+35,0,"office functions namely, business administration and management",public,goods,CIPO_manual,-,300000171599400
+35,0,casting agency services,public,goods,CIPO_manual,-,300000171599400
+41,0,education courses in the field of film and television,public,services,CIPO_manual,-,300000171599400
+41,0,providing of training in the production of films and television,public,services,CIPO_manual,-,300000171599400
+41,0,"entertainment in the form of live musical concerts, television shows, theatre productions",public,services,CIPO_manual,-,300000171599400
+41,0,"production, showing and rental of films, video and sound recordings namely, audio and video recording services, and radio and television programs",public,services,CIPO_manual,-,300000171599400
+41,0,"videotape film production, production of music records",public,services,CIPO_manual,-,300000171599400
+41,0,"production of shows namely production of television programs, production of theatre shows",public,services,CIPO_manual,-,300000171599400
+41,0,"impresario services namely, engagement of performing artists and musicians in film, television and other media",public,services,CIPO_manual,-,300000171599400
+41,0,layout design for production of films and television programs,public,services,CIPO_manual,-,300000171599400
+41,0,"publishing of books, newspapers, periodicals, calendars, posters, postcards and greetings cards, programs, brochures, playing cards and instructional and teaching material namely, educational manuals, in printed and electronic form, except for advertising purposes",public,services,CIPO_manual,-,300000171599400
+41,0,"digital imaging, namely exposure of digital or digitized starting material",public,services,CIPO_manual,-,300000171599400
+41,0,services of a photographer,public,services,CIPO_manual,-,300000171599400
+41,0,"services of a publishing house namely, publishing of web magazines (excluded printing services)",public,services,CIPO_manual,-,300000171599400
+9,0,downloadable publications in the field of movies and music,public,goods,CIPO_manual,-,300000171599400
+16,0,"paper, cardboard and goods made from these materials, namely announcement cards (stationery), stickers (stationery), labels of paper, pads (stationery), posters, display banners",public,goods,CIPO_manual,-,300000171599400
+16,0,"typewriters and office requisites namely, letter paper, label paper, paper clips",public,goods,CIPO_manual,-,300000171599400
+16,0,"instructional and teaching material namely, educational books",public,goods,CIPO_manual,-,300000171599400
+9,0,"programmable electrical and electronic actuators for electrically driven home appliances, namely: for garage doors, windows, door locks, audio and video media systems, heating, air conditioning and climate systems, lighting devices, namely: ceiling lights, electric light dimmers, electric night lights, electric track lighting units, water systems, securing systems, namely: electric room locking and unlocking systems for residential properties and office space, smoke detectors, alarm systems, extinguishing systems, motion sensors",public,goods,CIPO_manual,-,300000171599600
+9,0,"software for mobile devices, namely: mobile telephones, smart phones, smart watches and tablet computers, for remote operation of home appliances",public,goods,CIPO_manual,-,300000171599600
+9,0,electric room locking and unlocking systems,public,goods,CIPO_manual,-,300000171599600
+9,0,"programmable electrical and electronic actuators, sensors and meters for controlling, measuring, identifying, supervising, signalling and regulating electricity, fire, smoke, temperature, moisture, air pressure, water and water consumption, energy consumption, motions",public,goods,CIPO_manual,-,300000171599600
+9,0,"software for mobile devices, namely: mobile telephones, smart phones, smart watches and tablet computers, to enable remote operation of programmable electric and electronic actuators, sensors and meters for controlling, measuring, identifying, supervising, signalling and regulating electricity, fire, smoke, temperature, moisture, air pressure, water and water consumption, energy consumption, motions",public,goods,CIPO_manual,-,300000171599600
+9,0,"computer software and hardware for use in the acquistion, capture, processing, presentation, storage and transmission of physiological and medical data, namely, the concentration of glucose in the human body",public,goods,CIPO_manual,-,300000171601400
+10,0,"medical devices, namely, medical sensors that are implanted or inserted into the human body used to continuously monitor the concentration of glucose in the human body and accessories therefor, namely, receivers, sensor housings and sensor insertion devices",public,goods,CIPO_manual,-,300000171601400
+20,0,"non-metallic screw tops, for bottles",public,goods,CIPO_manual,-,300000171602500
+21,0,bottles for cosmetics articles,public,goods,CIPO_manual,-,300000171602500
+21,0,bottles for toilet articles,public,goods,CIPO_manual,-,300000171602500
+21,0,bottles for food,public,goods,CIPO_manual,-,300000171602500
+21,0,bottles for medicine,public,goods,CIPO_manual,-,300000171602500
+21,0,"containers for household or kitchen use, namely, containers for condiments, containers for edible oil, beverage containers, food storage containers and containers for detergent",public,goods,CIPO_manual,-,300000171602500
+35,0,"the bringing together, for the benefit of others, of a variety of goods, namely various types or a mixture of candies, sweets, chocolates, jellies, gums, cookies, brownies, pastries, biscuits, snacks, tidbits, popcorns, waffles, nuts, confectionery, cakes, spreads, cocoa, coffee, tea leaves, ice-creams, sherbets, drinks, cocktails, beverages, personal accessories, namely, jewelry, watches, hair clips, belts, tie clips, money clips, cuff links, umbrellas, scarves, luggage, stationery, gift packages comprising containers, candy, cookies, snack foods, jewelry, plush toys, ornaments, toys, apparels, clothing, paper products, containers, bags, home accessories and office accessories, namely, bedding, table linen, cutlery, paper serviettes, paper plates, drinking ware, lighting, mirrors, wall art, candles, trays, sculptures, vases, cabinets, stools, rugs, cushions, ornaments, note books, writing instruments, erasers, paper clips, pencil cases, house-wares, namely, mugs, plates, cups and utensils, and bath products (excluding the transport thereof), enabling customers to conveniently view and purchase those goods from a retail outlet",public,goods,CIPO_manual,-,300000171602700
+35,0,import services,public,goods,CIPO_manual,-,300000171602700
+35,0,sampling of beer and the sale of beer,public,goods,CIPO_manual,-,300000171603300
+35,0,"promoting the sale of beer at bars, restaurants and festivals through the distribution of related printed material",public,goods,CIPO_manual,-,300000171603300
+41,0,"organization and administration of social events, namely beer tasting events, including educational and informational seminars regarding beer",public,services,CIPO_manual,-,300000171603300
+39,0,"operation of a tourist attraction, namely providing tours of a brewery",public,services,CIPO_manual,-,300000171603300
+39,0,"tour services, namely tour operating and organising",public,services,CIPO_manual,-,300000171603300
+25,0,"clothing, namely t-shirts, long sleeve shirts, sweaters, jackets and hockey jerseys",public,goods,CIPO_manual,-,300000171603900
+18,0,"bags, namely messenger bags and tote bags",public,goods,CIPO_manual,-,300000171603900
+21,0,"bottle openers, drinking glasses",public,goods,CIPO_manual,-,300000171603900
+35,0,"advertising and business services, namely, market research and market analysis",public,goods,CIPO_manual,-,300000171604500
+35,0,"employment services in the nature of talent casting in the fields of music, video, and films",public,goods,CIPO_manual,-,300000171604500
+35,0,"consumer intelligence marketing services relating to brands, products, and services, namely, conducting consumer tracking behavior research and consumer trend analysis",public,goods,CIPO_manual,-,300000171604500
+35,0,"direct marketing services for others of brands, products and services, through one-on-one consumer engagement, via dissemination of advertising for others via social networking communities, computer games, incentive and reward program, branded content",public,goods,CIPO_manual,-,300000171604500
+35,0,"providing an on-line consumer lead generation searchable database for marketing in the fields of life style, personal profile, brand preference, permission to contact, user generated content, and general interest",public,goods,CIPO_manual,-,300000171604500
+42,0,"computer services, namely, hosting online web facilities for others for organizing and conducting online social networking, meetings, gatherings, and interactive discussions",public,services,CIPO_manual,-,300000171604500
+42,0,"and creating and designing web pages for others featuring user-defined information, personal profile entry, opt-in service requests and information",public,services,CIPO_manual,-,300000171604500
+10,0,hearing protectors,public,goods,CIPO_manual,-,300000171606400
+10,0,"parts of aforementioned goods, such as sound filters and casings",public,goods,CIPO_manual,-,300000171606400
+10,0,hearing protecting apparatus,public,goods,CIPO_manual,-,300000171606400
+10,0,ear plugs,public,goods,CIPO_manual,-,300000171606400
+29,0,"preserved, frozen, dried and cooked fruits and vegetables",public,goods,CIPO_manual,-,300000171606900
+29,0,"jellies, jams, compotes",public,goods,CIPO_manual,-,300000171606900
+29,0,"eggs, milk and milk products",public,goods,CIPO_manual,-,300000171606900
+29,0,edible oils and fats,public,goods,CIPO_manual,-,300000171606900
+29,0,foodstuffs containing processed biologically active natural polysaccharides,public,goods,CIPO_manual,-,300000171606900
+29,0,"protein preparations for human foodstuffs, in particular with biologically active polysaccharides",public,goods,CIPO_manual,-,300000171606900
+29,0,"protein foodstuffs for dietetic purposes, except foodstuffs adapted for medical purposes",public,goods,CIPO_manual,-,300000171606900
+29,0,fungal broths,public,goods,CIPO_manual,-,300000171606900
+29,0,prepared meals consisting principally of mushrooms,public,goods,CIPO_manual,-,300000171606900
+35,0,business administration,public,goods,CIPO_manual,-,300000171606900
+35,0,office functions,public,goods,CIPO_manual,-,300000171606900
+35,0,"electronic commerce services, namely providing information products via telecommunication networks for advertising and sales purposes",public,goods,CIPO_manual,-,300000171606900
+35,0,administration of the business affairs of retail outlets,public,goods,CIPO_manual,-,300000171606900
+35,0,"professional business consultancy, in particular professional consultancy regarding the sale of nutritional supplements and food supplements, dietetic substances, drugs and medicines, in particular with fungal extracts",public,goods,CIPO_manual,-,300000171606900
+35,0,retailing and wholesaling of food supplements for strengthening the immune system,public,goods,CIPO_manual,-,300000171606900
+35,0,"the bringing together, for the benefit of others, of medicines, drugs, food supplements and nutritional supplements (excluding the transport thereof), enabling customers to conveniently view and purchase those goods via retail outlets, wholesale outlets, via catalogue sales and electronic means, namely, via web sites",public,goods,CIPO_manual,-,300000171606900
+35,0,compilation of statistical data relating to medical research,public,goods,CIPO_manual,-,300000171606900
+35,0,rental of advertising space via the internet,public,goods,CIPO_manual,-,300000171606900
+35,0,business research,public,goods,CIPO_manual,-,300000171606900
+35,0,"advertising and marketing, namely, business marketing consulting services, providing marketing strategies for others, provision of marketing reports, marketing analysis services, marketing research, marketing services in the field of arranging for the distribution of the products of others, marketing services in the field of evaluating markets for existing goods and services of others",public,goods,CIPO_manual,-,300000171606900
+35,0,sales promotion consultancy,public,goods,CIPO_manual,-,300000171606900
+35,0,commercial sales information supply,public,goods,CIPO_manual,-,300000171606900
+35,0,business intermediary and advisory services in the field of selling products and rendering services,public,goods,CIPO_manual,-,300000171606900
+35,0,business administration in the field of internet sales,public,goods,CIPO_manual,-,300000171606900
+35,0,organization of exhibitions for commercial and advertising purposes,public,goods,CIPO_manual,-,300000171606900
+35,0,on-line advertising the goods and services of others on a computerised communications network,public,goods,CIPO_manual,-,300000171606900
+5,0,pharmaceutical and veterinary preparations,public,goods,CIPO_manual,-,300000171606900
+5,0,"dietetic substances adapted for medical use, food for babies",public,goods,CIPO_manual,-,300000171606900
+5,0,"plasters, materials for dressings",public,goods,CIPO_manual,-,300000171606900
+5,0,"material for stopping teeth, dental wax",public,goods,CIPO_manual,-,300000171606900
+5,0,"pharmaceutical and veterinary preparations, composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning",public,goods,CIPO_manual,-,300000171606900
+5,0,"sanitary preparations for medical purposes, namely, all purpose sanitizers",public,goods,CIPO_manual,-,300000171606900
+5,0,"dietetic substances adapted for medical use, composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning and for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,"plasters, materials for dressings",public,goods,CIPO_manual,-,300000171606900
+5,0,"material for stopping teeth, dental wax",public,goods,CIPO_manual,-,300000171606900
+5,0,medicinal food supplements for nutritional purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,"food supplements, consisting of vitamins, amino acids, minerals and trace elements",public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic supplements containing biologically active natural polysaccharides for medical use,public,goods,CIPO_manual,-,300000171606900
+5,0,active substances for the manufacture of medicines and of dietetic and nutritional supplements,public,goods,CIPO_manual,-,300000171606900
+5,0,"polysaccharide preparations for human foodstuffs for medical use, in particular with biologically active polysaccharides",public,goods,CIPO_manual,-,300000171606900
+5,0,"immunological products, composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning and for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,dietary and nutritional supplements for general health and well-being,public,goods,CIPO_manual,-,300000171606900
+5,0,dietary foods supplements for general health and well-being,public,goods,CIPO_manual,-,300000171606900
+5,0,"dietetic extracts for medical purposes composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning and for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,pharmaceutical preparations for use as dietetic additives for food,public,goods,CIPO_manual,-,300000171606900
+5,0,plant mixtures for use as dietetic supplements for humans with special medical requirements,public,goods,CIPO_manual,-,300000171606900
+5,0,"active specific immunotherapy agents, namely, polysaccharides",public,goods,CIPO_manual,-,300000171606900
+5,0,"agents for activating the immunological functions of the metabolism, namely, polysaccharides",public,goods,CIPO_manual,-,300000171606900
+5,0,protein food stuffs for dietetic purposes (adapted for medical use),public,goods,CIPO_manual,-,300000171606900
+5,0,herbal mixtures for use as dietetic additives for persons with special dietetic needs,public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic sugar substances adapted for medical purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic confectionery for medical purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,bottled water for medical purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,spirit liniments for medical use,public,goods,CIPO_manual,-,300000171606900
+5,0,aromatic teas for medical purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,non-prescription dietary supplements for persons with dietary requirements due to a medical condition,public,goods,CIPO_manual,-,300000171606900
+5,0,non-prescription dietary supplements for human consumption consisting principally of minerals,public,goods,CIPO_manual,-,300000171606900
+5,0,dietary supplements for medical use containing ginseng,public,goods,CIPO_manual,-,300000171606900
+5,0,dietary supplements for infants for general health and well-being,public,goods,CIPO_manual,-,300000171606900
+5,0,non-prescription dietary supplements for human consumption consisting principally of vitamins,public,goods,CIPO_manual,-,300000171606900
+5,0,"non-prescription dietary supplements in powder, liquid, capsule, hydrogel, cream and milk form for human consumption consisting principally of trace elements of polysaccharides",public,goods,CIPO_manual,-,300000171606900
+5,0,dietary supplements for medical use containing royal jelly,public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic jams for medical use,public,goods,CIPO_manual,-,300000171606900
+5,0,herbal food supplements for personal special dietetic requirements,public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic preparations for medical use in weight control,public,goods,CIPO_manual,-,300000171606900
+5,0,dietetic foodstuffs for medical use made of sugar and sweetener,public,goods,CIPO_manual,-,300000171606900
+5,0,"dietetic substances for veterinary purposes, namely, dietary supplements for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,immunoglobulin preparations,public,goods,CIPO_manual,-,300000171606900
+5,0,immunological antisera for medical use,public,goods,CIPO_manual,-,300000171606900
+5,0,food supplements to strengthen the immune system,public,goods,CIPO_manual,-,300000171606900
+5,0,"food preparations adapted for medical use, namely, food supplements composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning and for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,"medicines for human use composed mainly of polysaccharides, in powder, liquid, capsule, hydrogel, cream and milk form for strengthening the immune system and preventing respiratory infections, for the treatment of skin conditions and skin irritations, namely, dermatitis, eczema, psoriasis, bee stings, sunburn, rashes, sores, corns, calluses, and acne, for reducing tiredness and fatigue, for preventing digestion disorders, for contributing to proper brain and heart functioning and for general health and well-being",public,goods,CIPO_manual,-,300000171606900
+5,0,immunological antisera for medical use,public,goods,CIPO_manual,-,300000171606900
+5,0,antibodies for immunodiagnostic purposes,public,goods,CIPO_manual,-,300000171606900
+5,0,immunoglobulin preparations,public,goods,CIPO_manual,-,300000171606900
+5,0,food substitutes (for nutritional use),public,goods,CIPO_manual,-,300000171606900
+5,0,"food supplements, not for medical purposes, containing fungal extracts",public,goods,CIPO_manual,-,300000171606900
+5,0,"food supplements, not for medical purposes, in powder, liquid, capsule, hydrogel, cream and milk form, composed of vitamins, minerals and trace elements of polysaccharides",public,goods,CIPO_manual,-,300000171606900
+30,0,"grain-based snack foods, namely wholegrain snack crackers and chips",public,goods,CIPO_manual,-,300000171607600
+1,0,catalysts and chemical additives for use in the field of vehicle emissions,public,goods,CIPO_manual,-,300000171607700
+7,0,"catalyst systems and associated control and treatment system, namely catalytic converters used to reduce pollutants in the engine emissions of vehicles",public,goods,CIPO_manual,-,300000171607700
+9,0,computer software for use in tracking and monitoring motor vehicle information,public,goods,CIPO_manual,-,300000171608100
+42,0,computer game development services,public,services,CIPO_manual,-,300000171611000
+41,0,"production and distribution of motion pictures, films and videos containing video games, computer games and virtual reality games",public,services,CIPO_manual,-,300000171611000
+41,0,film studio services,public,services,CIPO_manual,-,300000171611000
+25,0,"clothing, namely, jackets, sweatshirts, and t-shirts",public,goods,CIPO_manual,-,300000171616000
+42,0,"providing a website featuring open source technology that enables users to view, discuss, write, edit, contribute to, and maintain an online encyclopedia",public,services,CIPO_manual,-,300000171616000
+42,0,"computer services, namely, maintaining an online encyclopedia",public,services,CIPO_manual,-,300000171616000
+38,0,"operation of an interactive website on the internet featuring an online community that enables users to participate in discussions and form virtual communities to view, discuss, write, edit, contribute to, and maintain an online encyclopedia",public,services,CIPO_manual,-,300000171616000
+38,0,"telecommunication services, namely, providing online electronic bulletin boards for the transmission of messages among computer users concerning encyclopedia articles and the administration of an encyclopedia project",public,services,CIPO_manual,-,300000171616000
+38,0,"offering the services of providing electronic access to the applicant's website via a computer or mobile device, namely transmission of online-based information from the applicant's website accessed via a visual reference, namely a two-dimensional bar code or qr code for purposes of sharing, distributing and providing historical, educational and background information on the applicant's website",public,services,CIPO_manual,-,300000171616000
+16,0,"printed publications, namely, books and manuals regarding an online encyclopedia",public,goods,CIPO_manual,-,300000171616000
+36,0,fundraising services for the support of free knowledge and the sharing of educational content,public,services,CIPO_manual,-,300000171616000
+36,0,providing financial grants to entities and individuals in order to promote the dissemination and promotion of free knowledge and educational content,public,services,CIPO_manual,-,300000171616000
+41,0,"educational services, namely, collecting, developing, and disseminating freely licensed educational content, namely, ebooks, articles, reference guides, brochures, and manuals",public,services,CIPO_manual,-,300000171616000
+41,0,providing a collaboratively created and maintained online multilingual encyclopedia,public,services,CIPO_manual,-,300000171616000
+41,0,"providing online publications in the nature of articles, reference guides, brochures, and manuals on the use of and contribution to an online encyclopedia",public,services,CIPO_manual,-,300000171616000
+41,0,"educational services, namely, conferences and workshops about an online encyclopedia",public,services,CIPO_manual,-,300000171616000
+41,0,"arranging and conducting contests and incentive award programs for educational purposes by way of awards to demonstrate excellence in the field of writing, editing, and contribution to an interactive online encyclopedia",public,services,CIPO_manual,-,300000171616000
+9,0,"downloadable publications, namely, e-books in the nature of textbooks, manuals, and educational and reference books of others in the field of encyclopedic content",public,goods,CIPO_manual,-,300000171616000
+5,0,"botanical extracts, namely pomegranate extracts, for use in the preparation of pharmaceutical products and preparations",public,goods,CIPO_manual,-,300000171616200
+5,0,"food, dietary and nutritional supplements, namely, supplements derived from and containing pomegranate extracts and plant extract for general health and well-being",public,goods,CIPO_manual,-,300000171616200
+5,0,"nutraceuticals, namely supplements derived from and containing pomegranate extracts for general health and well-being",public,goods,CIPO_manual,-,300000171616200
+5,0,nutritional additives for use in foods containing pomegranate extracts for general health and well-being,public,goods,CIPO_manual,-,300000171616200
+5,0,pharmaceutical preparations derived from and containing pomegranate extracts for use in the manufacture of nutritional supplements for general health and well-being,public,goods,CIPO_manual,-,300000171616200
+9,0,"software for use in remotely managing and monitoring the functions and settings of water pump systems, water filtration systems, and battery back-up systems for the foregoing",public,goods,CIPO_manual,-,300000171616400
+42,0,"providing a website featuring non-downloadable software for use in remotely managing and monitoring the functions and settings of water pump systems, water filtration systems, and battery back-up systems for the foregoing",public,services,CIPO_manual,-,300000171616400
+19,0,"artificial ground coverings for environmental sites, namely an erosion control geomembrane fabric, erosion control tufted geosynthetic textile mats, and sand infill for the erosion control tufted geosynthetic textile mats",public,goods,CIPO_manual,-,300000171616700
+19,0,"artificial ground coverings, namely armorings that protect the ground from eroding, namely an erosion control geomembrane fabric, erosion control tufted geosynthetic textile mats, and cementitious infill for the erosion control tufted geosynthetic textile mats",public,goods,CIPO_manual,-,300000171616700
+19,0,"artificial ground coverings, namely ground coverings that prevent erosion and prevent contaminants from seeping out, namely an erosion control geomembrane fabric and erosion control tufted geosynthetic textile mats",public,goods,CIPO_manual,-,300000171616700
+19,0,"artificial ground coverings, namely erosion-resistant coverings for mechanically stabilized earth walls, namely erosion control tufted geosynthetic textile mats",public,goods,CIPO_manual,-,300000171616700
+27,0,synthetic turf,public,goods,CIPO_manual,-,300000171616700
+37,0,installation of motor vehicle engines and parts therefor,public,services,CIPO_manual,-,300000171617300
+37,0,"installation, repair, restoration, maintenance reconditioning, diagnostic tuning, cleaning, painting and polishing services in the field of vehicles, repair and maintenance engines and motor vehicles, construction, agriculture and forestry machines, namely construction tractors, agricultural planting machines, agricultural reaping machines and vehicles, power hand tools, workshop appliances and devices, namely, shop vacuum, electric tools, hand held tools, parts, fittings and telecommunication equipment, namely, printers, computers, computer hardware for the aforesaid",public,services,CIPO_manual,-,300000171617300
+37,0,rental of machine tools for repair and maintenance of motor vehicles in motor sport events,public,services,CIPO_manual,-,300000171617300
+37,0,reservation of garage services for the repair and maintenance of motor vehicles,public,services,CIPO_manual,-,300000171617300
+37,0,technical assistance in the repair and maintenance of motor vehicles in the field of motor vehicles during motorsports events,public,services,CIPO_manual,-,300000171617300
+37,0,"maintenance and repair of motor vehicles, land transport vehicles, agricultural and forestry machines and parts and accessories therefore",public,services,CIPO_manual,-,300000171617300
+37,0,"repair of tools and equipment for the repair of motor vehicles, land transport vehicles, agricultural and forestry machines",public,services,CIPO_manual,-,300000171617300
+37,0,emergency roadside assistance services,public,services,CIPO_manual,-,300000171617300
+35,0,"retail and wholesale services of vehicles, engines/motors, as well as of parts and fittings for the aforesaid goods, and of machine tools and hand tools",public,goods,CIPO_manual,-,300000171617300
+35,0,"business administration, namely, providing bookkeeping services, business management and business management advisory services, in particular relating to the design, development, manufacture, sale, distribution, repair or maintenance of vehicles, engines, motors and machines, including drive units and construction machine, and of parts, fittings and accessories for the aforesaid",public,goods,CIPO_manual,-,300000171617300
+35,0,"consultancy in the management of motor vehicle fleets and motor vehicle fleet operations, sale of motor vehicles, land transport vehicles, agricultural and forestry machines and parts and accessories therefore",public,goods,CIPO_manual,-,300000171617300
+35,0,"sale of tools and equipment for the repair of motor vehicles, land transport vehicles, agricultural and forestry machines",public,goods,CIPO_manual,-,300000171617300
+35,0,distribution of vehicle parts,public,goods,CIPO_manual,-,300000171617300
+35,0,"business management consultations in the field of vehicle traffic, transportation of goods and mobile telematics applications",public,goods,CIPO_manual,-,300000171617300
+36,0,real estate affairs,public,services,CIPO_manual,-,300000171617300
+36,0,"monetary and financial affairs, namely, credit card services",public,services,CIPO_manual,-,300000171617300
+36,0,"insurance, providing extended warranties on motor vehicles and parts therefor, financing of motor vehicles",public,services,CIPO_manual,-,300000171617300
+39,0,"transportation of persons by rail, truck, motor vehicle, air and boat",public,services,CIPO_manual,-,300000171617300
+39,0,"salvaging, transportation namely delivery by rail, truck, motor vehicle, air and boat and warehousing of automobiles and ships, emergency automobile and ship towing services",public,services,CIPO_manual,-,300000171617300
+39,0,"packaging, warehousing, namely, merchandise packaging, packaging of articles for transportation, warehouse storage services",public,services,CIPO_manual,-,300000171617300
+39,0,"rental of motor vehicles, aircraft, boats",public,services,CIPO_manual,-,300000171617300
+39,0,emergency ship rescue services,public,services,CIPO_manual,-,300000171617300
+39,0,"logistics services, namely tracking and tracing of persons, packages and motor vehicles in transit",public,services,CIPO_manual,-,300000171617300
+39,0,"traffic information and control services namely, providing road and traffic information and road and traffic control information services",public,services,CIPO_manual,-,300000171617300
+39,0,providing road route information services,public,services,CIPO_manual,-,300000171617300
+39,0,"providing travel agency and tourist agency services, tourist office services",public,services,CIPO_manual,-,300000171617300
+39,0,"leasing of motor vehicles, land transport vehicles, agricultural and forestry machines",public,services,CIPO_manual,-,300000171617300
+9,0,"scientific, nautical, surveying, photographic, cinematographic, optical, weighing, measuring, signalling, checking (supervision), life-saving and teaching apparatus and instruments namely, mechanical life-saving apparatus, namely, seat belts and air bags",public,goods,CIPO_manual,-,300000171617300
+9,0,"programmable electrical controllers for diesel engines, programmable electronic speed controllers, programmable electronic controllers for traffic lights",public,goods,CIPO_manual,-,300000171617300
+9,0,"electric and electronic apparatus and instruments, namely, electric batteries for vehicles, electric storage batteries, ignition batteries, charging devices, namely, automotive battery chargers, battery testers",public,goods,CIPO_manual,-,300000171617300
+9,0,"electric accumulators, electric directional compasses, electric circuit breakers, commutators, electric condensers, electric wiring harnesses, capacitors, relays, electronic time relays, power switches, electrical fuses, electrical contacts, electric cables, electric fuses",public,goods,CIPO_manual,-,300000171617300
+9,0,"electric fuse boxes, electrical vehicle and machine acceleration sensors, liquid level sensors, electrical sockets, electrical cigarette lighters for automobiles, printed electrical circuits, integrated circuits",public,goods,CIPO_manual,-,300000171617300
+9,0,"leads for electric, electronic and optical signals namely, leads for electric, electronic and optical signals for vehicles and machines",public,goods,CIPO_manual,-,300000171617300
+9,0,"cable connections, cable drums",public,goods,CIPO_manual,-,300000171617300
+9,0,"transformers, namely, electric transformers, current transformers, power transformers",public,goods,CIPO_manual,-,300000171617300
+9,0,electronic headlamp beam adjustment,public,goods,CIPO_manual,-,300000171617300
+9,0,"vehicle acceleration sensors, pollutant sensors and proximity sensors and detectors, electric switch plates, pressure switches, differential switches, switch boxes, solar cells and solar generators",public,goods,CIPO_manual,-,300000171617300
+9,0,"analysers for motor vehicles, namely, for exhaust gas analysis, soot particle analysis, brake function analysis, diagnostic instruments and equipment for flight simulations, vehicle driver training simulators, engine testers, vehicle workshop test devices, namely, diagnostic instruments and equipment for vehicles, namely, voltmeters, infrared thermometers, circuit testers",public,goods,CIPO_manual,-,300000171617300
+9,0,"high-frequency generators for industrial machinery, for motor vehicles, turbine generators, for ships, power supply devices, namely, computer power supplies, electric power converters, electric power connectors, power cords, power switches, semiconductor components and optoelectronic components namely, diodes, chips, integrated circuits, transistors, wafers",public,goods,CIPO_manual,-,300000171617300
+9,0,"testing apparatus namely, metal strength testing machines, diagnostic machines to test automotive performance",public,goods,CIPO_manual,-,300000171617300
+9,0,"apparatus for recording, transmission or reproduction of data, sound or images and data processing equipment and computers, namely, radios, video screens, tape players, namely, video tape players, audio tape players, loudspeakers, amplifiers, namely, audio amplifiers, power amplifiers, signal amplifiers, sound amplifiers, stereo amplifiers, car telephone installations, namely, mobile car phones, cell phone antennas, hand free kits for motor vehicles, in-car telephone handset cradles, compact disc players, telematics terminals, namely, computers and monitors, distress signal terminals namely, marking and signalling buoys, navigation and radar terminals, namely, navigation apparatus for vehicles in the form of on-board computers, directional compasses, maritime patrol radar, radars, radar detectors, radar receivers with amplifiers, traffic control systems, namely, air traffic control radio equipment",public,goods,CIPO_manual,-,300000171617300
+9,0,"airplane control panels, on-board electronic traffic control systems for monitoring vehicle traffic, locating device, namely, gps receivers, transmitters and satellites, toll terminals for electronic toll detection in traffic, black box data recorders for motor vehicles, auto-computers and on-board computers, calculators and pocket calculators",public,goods,CIPO_manual,-,300000171617300
+9,0,computer software for use in controlling powertrain functions in vehicles,public,goods,CIPO_manual,-,300000171617300
+9,0,"recorded and non-recorded data carriers and recording media of all kinds, namely, magnetic data carriers, namely, compact discs, namely, blank compact discs, blank audio compact discs, compact discs containing music, tape cassettes, namely, video tape cassettes, audio tape cassettes",public,goods,CIPO_manual,-,300000171617300
+9,0,"storage boxes, namely, disk storage boxes for recording media, namely, cd's and dvd's",public,goods,CIPO_manual,-,300000171617300
+9,0,"data processing equipment, namely, computers",public,goods,CIPO_manual,-,300000171617300
+9,0,"highway emergency warning equipment, namely, highway safety cones, emergency warning lights, led emergency underwater lights for marine rescue",public,goods,CIPO_manual,-,300000171617300
+9,0,"interference suppressors, namely, signal interference suppressors, namely, filters for radio interference suppression, aerials and antennas namely, car aerials and antennas, radio and television aerials and antennas, satellite aerials, cellphone antennas",public,goods,CIPO_manual,-,300000171617300
+9,0,"gauges, namely, water gauges, fluid level gauges for vehicles and industrial machinery, instruments and equipment to measure motor fuel, oil pressure, tire pressure, compressed air volume in tires, motor vehicle engine temperatures, automotive amperage, speed and engine cylinders",public,goods,CIPO_manual,-,300000171617300
+9,0,"mileage recorders for vehicles, odometers, tachometers",public,goods,CIPO_manual,-,300000171617300
+9,0,"voltage regulators, voltmeters",public,goods,CIPO_manual,-,300000171617300
+9,0,"time recorders, namely, time and date stamping machines, time clocks, timing sensors, rudder indicators, boat control panels",public,goods,CIPO_manual,-,300000171617300
+9,0,"motor vehicle control panels, vehicle fluid dipsticks, thermostats, signal lamps",public,goods,CIPO_manual,-,300000171617300
+9,0,"dynamometers, brake tester systems for vehicles, electrical and mechanical analysis instruments and apparatus for control and testing vehicle engines and motors and industrial machine engines and motors, drive units and construction machines, namely, tachometers",public,goods,CIPO_manual,-,300000171617300
+9,0,in-vehicle computers to assist with parking,public,goods,CIPO_manual,-,300000171617300
+9,0,warning reflector lights,public,goods,CIPO_manual,-,300000171617300
+9,0,"fire extinguisher, fire extinguishing apparatus for vehicles",public,goods,CIPO_manual,-,300000171617300
+9,0,electronic voltage monitors and regulators for engines and motors,public,goods,CIPO_manual,-,300000171617300
+9,0,thermometers,public,goods,CIPO_manual,-,300000171617300
+9,0,"directional compasses, magnetic compasses",public,goods,CIPO_manual,-,300000171617300
+9,0,"optical apparatus and instruments, namely, binoculars, magnifying glasses, spectacles, sun glasses and goggles, namely, safety goggles, sports goggles, dust protective goggles, sun-proof optical lenses",public,goods,CIPO_manual,-,300000171617300
+9,0,ophthalmic frames,public,goods,CIPO_manual,-,300000171617300
+9,0,"clothing for protection against accidents, namely, footwear, namely, boots and shoes, chemical exposure protective clothing, fire protecting clothing, motorcyclist protective clothing, radiation protective clothing, workmen's protective face-shields, dust protective masks",public,goods,CIPO_manual,-,300000171617300
+9,0,"spark eliminators, namely, electrical connectors",public,goods,CIPO_manual,-,300000171617300
+9,0,"hydraulic steering systems for vehicles and industrial machines, as well as component parts of these items",public,goods,CIPO_manual,-,300000171617300
+9,0,"diesel oil emission testers, vehicle emission testers",public,goods,CIPO_manual,-,300000171617300
+9,0,"electric control panels, electronic control systems for automobile brakes",public,goods,CIPO_manual,-,300000171617300
+9,0,"parking assistance systems, namely, computer software to provide driver vehicle parking assistance",public,goods,CIPO_manual,-,300000171617300
+9,0,"warning triangles, jumper cables, starter cables for motors, emergency warning lights",public,goods,CIPO_manual,-,300000171617300
+9,0,mounting racks for mobile telephones and motion sensors,public,goods,CIPO_manual,-,300000171617300
+41,0,"education and training services in the field of vehicle driving training and handling, construction vehicle driving training and handling",public,services,CIPO_manual,-,300000171617300
+41,0,education and training services in the field of driver training and handling of construction machines,public,services,CIPO_manual,-,300000171617300
+41,0,"organizing exhibitions in the field of car shows, travel, tourism, live musical and theatrical performances",public,services,CIPO_manual,-,300000171617300
+41,0,"entertainment in the form of live musical concerts, booking of entertainment halls, entertainment in the form of live comedy shows, air shows, car shows",public,services,CIPO_manual,-,300000171617300
+41,0,"arranging competitions for live musical and theatrical performances, organization of sports events in the field of football, soccer, basketball, tennis, motor vehicle racing",public,services,CIPO_manual,-,300000171617300
+41,0,camp services for sport activities,public,services,CIPO_manual,-,300000171617300
+12,0,"vehicles, namely, cars, vans, sport-utility vehicles (including golf carts), buses, trucks, all terrain vehicles, dump trucks, and parts, including components, and accessories to these items, namely, vehicle chassis, vehicle bodies, brake pads, brake discs, brake cylinders, brake drums, brake levers, brake linings, brake shoes, brake calipers, draw bars, bumper bars, clutches, engines, electric engines, motors, electric motors, air and hydraulic turbines for land vehicles, starter motors, combustion engines, car starters, hydraulic cylinders, namely, hydraulic brake cylinders and motors, power transmissions, motor vehicle gearboxes and vehicle transmissions, transmission shafts, differential gears, drive gears, drive shafts, gear change selectors, axles, crank shafts, cam shafts, shaft couplings, industrial machine couplings and transmissions components namely, hydraulic circuits for vehicles, manual and power steering wheels for vehicles and vessels, manual and power steering gears for vehicles, ships' steering gears, sun blinds for vehicles, roof sun visors, anti-theft devices and alarms namely, anti-theft warning apparatus for vehicles, anti-theft alarms for vehicles, trailer hitches, power take-offs namely, mechanical gearboxes that attach to apertures provided on truck transmissions and are used to transfer the power of the vehicle engine to auxiliary components, vehicle suspension springs and shock absorbing springs for vehicles, axle bearings for vehicles, axle bearings for motor vehicles",public,goods,CIPO_manual,-,300000171617300
+12,0,"wheels for motor vehicles, wheel bearings for motor vehicles, vehicle wheel trims, balance weights for vehicle wheels, vehicle engine mountings, vessel and vehicle fuel tanks, vehicle engine noise shields, protective car seat covers, covers for vehicle steering wheels, fitted covers for boats, spare tire covers, vehicle covers, radiators grills for motor vehicles, front grills for vehicles, fluid reservoirs for vehicles to hold anti-freeze, windshield washer fluid, plastic and metal vehicle wind and rain deflectors, roof hatches, upholstery for vehicles, handles of metal and plastic for vehicle doors, hoods for vehicle engines, vehicle horns, hubs, namely, hub caps, hydraulic circuits, tyres, non-skid devices for tyres namely, chains, mud flaps, vehicle brakes, servo brakes and compressed-air brakes, antilock brakes for motor vehicles, brake pads for vehicles and brake lining for vehicles, vehicle bumpers, mudguards and fenders for vehicles, vehicle cabs, vehicle cab tilt mechanisms, reversing alarms, mechanical controls, namely, cruise controls for motor vehicles, head rests for vehicle seats, vehicle arm rests, vehicle doors, vehicle seats, vehicle safety-seats, personal safety restraint seats namely, child safety seats",public,goods,CIPO_manual,-,300000171617300
+12,0,"tables for vehicle seats, fitted vehicle seat covers, fitted head-rest covers for vehicle seats, seat belts, devices for collision protection, namely, internal and external airbags, anti-lock brakes, collision warning apparatus for motor vehicles, collision alert apparatus for motor vehicles, forward warning systems for vehicles that senses vehicle movement and actuates a visual or audio warning, back up/reverse warning systems for vehicles that senses movement or obstacles and actuates a visual or audio warning, stability control systems for vehicles, seats, namely, energy-absorbing vehicle seats, safety belts, seatbelts, and pretensioners, vehicle detection apparatus for motor vehicles that actuate a visual or audio warning",public,goods,CIPO_manual,-,300000171617300
+12,0,"lane departure apparatus for motor vehicles that actuate a visual or audio warning, sliding roofs for vehicles, sun roofs for vehicles, vehicle steering columns, steering wheels, steering linkages, roof stabilizing bars for vehicles, vehicle suspension spindles and springs, suspension lowering systems for motor vehicles, torsion bars for vehicles, tow bars, windows for vehicles, window winding mechanisms for vehicles, electric windows for vehicles, windscreens/windshields (also of safety glass), windscreen/windshield and headlight wipers, heating apparatus for defrosting vehicle windscreens, windshield wiper blades, vehicle window blinds, side view mirrors for motor vehicles, rear view mirrors, tank caps, cover caps for extra headlights, luggage restraints for vehicles, luggage nets for vehicles, luggage carriers for vehicles, spare tire carriers for vehicles, bicycle carriers, surfboard carriers for vehicles, boat trailers, mud-guards, snow chains, pet screens for vehicles, screens to protect the vehicle from stones from the road, roof racks and ski racks, storage boxes for vehicles, interior trim for vehicles, spoilers for vehicles, vehicle skirts, vehicle air bags, vehicle rear view mirror holders, sun shades for vehicle windows",public,goods,CIPO_manual,-,300000171617300
+12,0,"restraining systems for installation in motor vehicles, namely, seat belt tensioners for vehicles and machines, airbags",public,goods,CIPO_manual,-,300000171617300
+12,0,"tires, pneumatic tires",public,goods,CIPO_manual,-,300000171617300
+12,0,"baby carriages, wheeled chairs for invalids",public,goods,CIPO_manual,-,300000171617300
+12,0,"rudders, propellers, trimming vanes, steering wheels and steering wheel fittings for boats as well as component parts of these items",public,goods,CIPO_manual,-,300000171617300
+12,0,"cars, trucks, vans, buses, airplanes, boats, ships",public,goods,CIPO_manual,-,300000171617300
+12,0,anti-theft devices for automobiles,public,goods,CIPO_manual,-,300000171617300
+12,0,"automatic alarm units, namely, automatic anti-theft alarms for vehicles, automatic vehicle alarms, reversing alarms for vehicles, anti-theft warning apparatus for vehicles, anti-theft alarms for vehicles, anti-theft locks for use on automotive wheels, electrical anti-theft installations for vehicles, including vehicle immobilizing units",public,goods,CIPO_manual,-,300000171617300
+12,0,lenses for vehicle head lights,public,goods,CIPO_manual,-,300000171617300
+12,0,"storage divider screens, namely, vehicle partition screens",public,goods,CIPO_manual,-,300000171617300
+16,0,"paper, cardboard, namely, paper cubes and paper notes",public,goods,CIPO_manual,-,300000171617300
+16,0,"printed matter, namely, books, instruction books, computer and computer software manuals, periodicals, magazines, newspapers, calendars, posters, stickers, banners and pennants of paper, country and road maps, maintenance manuals, advertising materials, namely, billboards, pamphlets, magazines, printed publications in the field of automotive subjects",public,goods,CIPO_manual,-,300000171617300
+16,0,"artists' materials, namely, artists' brushes, paints, canvas, paint brushes",public,goods,CIPO_manual,-,300000171617300
+16,0,"stationery, namely, pens and pencils",public,goods,CIPO_manual,-,300000171617300
+16,0,"typewriters and office requisites (except furniture), namely, pen stands, letter holders, metal, wood and plastic storage boxes for recording media and paper knives",public,goods,CIPO_manual,-,300000171617300
+16,0,"instructional and teaching materials, namely, books, pamphlets, manuals",public,goods,CIPO_manual,-,300000171617300
+16,0,"plastic materials for packaging, namely, plastic shopping bags",public,goods,CIPO_manual,-,300000171617300
+28,0,"coin-operated video gaming machines, networked or unnetworked",public,goods,CIPO_manual,-,300000171619200
+28,0,video games adapted for use with external screens or monitors only,public,goods,CIPO_manual,-,300000171619200
+28,0,"casino fittings, namely roulette tables, roulette wheels",public,goods,CIPO_manual,-,300000171619200
+28,0,"electronic or electrotechnical gaming machines, games machines and slot machines, networked or unnetworked, operated by coins, tokens, banknotes, tickets or by means of electronic, magnetic or biometric storage media, in particular for commercial use in casinos and amusement arcades, with or without a prize payout",public,goods,CIPO_manual,-,300000171619200
+28,0,"housings adapted for gaming machines and automatic gaming machines, networked or unnetworked, operated by means of coins, tokens, tickets or by means of electronic, magnetic or biometric storage media, in particular for commercial use in casinos and gaming arcades, with or without a prize payout",public,goods,CIPO_manual,-,300000171619200
+28,0,"machines, networked or unnetworked, for selecting winners in prize games and lotteries, draws or raffles",public,goods,CIPO_manual,-,300000171619200
+28,0,"housings of metal, plastic or wood for coin-operated automatic gaming machines",public,goods,CIPO_manual,-,300000171619200
+28,0,"gaming tables, in particular for table football, billiards, shuffleboard",public,goods,CIPO_manual,-,300000171619200
+28,0,quoits (playthings) and darts,public,goods,CIPO_manual,-,300000171619200
+28,0,"electric, electronic or electromechanical machines for bingo games, lotteries and video lottery games and for betting offices, networked or unnetworked",public,goods,CIPO_manual,-,300000171619200
+28,0,lcd games consoles,public,goods,CIPO_manual,-,300000171619200
+28,0,coin and bill mechanisms for gaming machines,public,goods,CIPO_manual,-,300000171619200
+9,0,"calculators, including calculators in coin-operated machines, namely calculators in coin-operated amusement electronic games, and parts for the aforesaid goods",public,goods,CIPO_manual,-,300000171619200
+9,0,musical jukeboxes,public,goods,CIPO_manual,-,300000171619200
+9,0,"automatic cash dispensers, automatic money counting and money changing machines",public,goods,CIPO_manual,-,300000171619200
+9,0,computer games provided through a global computer network or supplied by means of multi-media electronic broadcast or through telecommunications or electronic transmission or via the internet,public,goods,CIPO_manual,-,300000171619200
+9,0,"coin-operated amusement electronic games, free-standing arcade electronic games and video games",public,goods,CIPO_manual,-,300000171619200
+9,0,automatic lottery machines,public,goods,CIPO_manual,-,300000171619200
+9,0,online computer games,public,goods,CIPO_manual,-,300000171619200
+9,0,"online games software accessed via web browser, gaming console (portable or not), cellular phone or other video game supporting wireless device for playing video games",public,goods,CIPO_manual,-,300000171619200
+9,0,"computer hardware and software for casino and amusement arcade games, for gaming machines, slot machines, video lottery gaming machines, and games of chance via the internet for playing the games",public,goods,CIPO_manual,-,300000171619200
+9,0,coin and banknote proofing machines and machines for verifying data of identification cards and credit cards,public,goods,CIPO_manual,-,300000171619200
+9,0,electric wiring harnesses,public,goods,CIPO_manual,-,300000171619200
+9,0,"circuit boards, printed board assemblies",public,goods,CIPO_manual,-,300000171619200
+29,0,"fish and fish products, namely, canned fish, fish pate and fish paste",public,goods,CIPO_manual,-,300000171619700
+29,0,"fish, namely, canned fish, fish pate and fish paste, not live",public,goods,CIPO_manual,-,300000171619900
+3,0,"non medicated toilet preparations, namely, skin cleansing creams, skin cleansing lotions, body moisturising lotions, facial moisturisers, cleansing milks, wipes impregnated with facial cleansing lotion or moisturising lotion, bath foam, bath salts, perfumed bath oils, body oil for moisturising, skin exfoliating creams, facial moisturising masks, facial cleansing masks",public,goods,CIPO_manual,-,300000171620300
+3,0,perfumes and eau de toilettes,public,goods,CIPO_manual,-,300000171620300
+3,0,"soaps, namely bath soaps and hand soaps",public,goods,CIPO_manual,-,300000171620300
+3,0,"conditioning and hair styling products, namely, styling mousse, styling cream, curling cream and sprays, straightening cream and sprays, hair spray, conditioner for hair, hair wax",public,goods,CIPO_manual,-,300000171620300
+3,0,eau de cologne and toilet water,public,goods,CIPO_manual,-,300000171620300
+3,0,"essential oils, namely, essential oils for perfumery and aromatherapy",public,goods,CIPO_manual,-,300000171620300
+14,0,trophies,public,goods,CIPO_manual,-,300000171620300
+14,0,commemorative shields,public,goods,CIPO_manual,-,300000171620300
+14,0,rings,public,goods,CIPO_manual,-,300000171620300
+14,0,gem brooches,public,goods,CIPO_manual,-,300000171620300
+14,0,jewellery pins for use on bonnets and hats,public,goods,CIPO_manual,-,300000171620300
+14,0,shoe ornament of precious metal,public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely shirts and pants",public,goods,CIPO_manual,-,300000171620300
+25,0,"children's wear, namely shirts, pants, overalls, shorts, skirts, and pajamas",public,goods,CIPO_manual,-,300000171620300
+25,0,"liveries, clothing, namely jackets",public,goods,CIPO_manual,-,300000171620300
+25,0,"formal wear, namely tuxedos, gowns, suits, and cummerbunds",public,goods,CIPO_manual,-,300000171620300
+25,0,vests and waistcoats,public,goods,CIPO_manual,-,300000171620300
+25,0,open necked shirts,public,goods,CIPO_manual,-,300000171620300
+25,0,collars for clothing,public,goods,CIPO_manual,-,300000171620300
+25,0,nightdress,public,goods,CIPO_manual,-,300000171620300
+25,0,"underclothing, namely corsets",public,goods,CIPO_manual,-,300000171620300
+25,0,"undergarments, namely slips",public,goods,CIPO_manual,-,300000171620300
+25,0,"panties, shorts and briefs",public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely aprons",public,goods,CIPO_manual,-,300000171620300
+25,0,collar protectors for clothing,public,goods,CIPO_manual,-,300000171620300
+25,0,puttees and gaiters,public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely gloves and mittens",public,goods,CIPO_manual,-,300000171620300
+25,0,bandanas and neckerchiefs,public,goods,CIPO_manual,-,300000171620300
+25,0,mufflers,public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely ear muffs",public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely hoods",public,goods,CIPO_manual,-,300000171620300
+25,0,"headgear for wear, namely hats, caps and knitted caps",public,goods,CIPO_manual,-,300000171620300
+25,0,braces in the nature of suspenders,public,goods,CIPO_manual,-,300000171620300
+25,0,"clothing, namely belts",public,goods,CIPO_manual,-,300000171620300
+25,0,inner soles for shoes and boots,public,goods,CIPO_manual,-,300000171620300
+25,0,"clothes for sports, namely over uniforms, sweat suits, track suits, tennis wear, golf shirts, and sports jersey",public,goods,CIPO_manual,-,300000171620300
+25,0,"boots for sports, namely ski boots, soccer boots, baseball boots and hiking boots",public,goods,CIPO_manual,-,300000171620300
+24,0,"textiles and textile goods, namely, textile fabrics, textiles for furniture, textiles for curtains, textiles for clothing",public,goods,CIPO_manual,-,300000171620300
+24,0,textile fabrics being piece goods for clothing,public,goods,CIPO_manual,-,300000171620300
+24,0,coated textile fabrics,public,goods,CIPO_manual,-,300000171620300
+24,0,linings (textile),public,goods,CIPO_manual,-,300000171620300
+24,0,"bed linen, bed covers, duvet covers, sheets, pillowcases",public,goods,CIPO_manual,-,300000171620300
+24,0,"covers for furniture, chair covers, towels, face cloths, handkerchiefs, textile place mats, rugs (travelling-)(lap-robes), tablecloths, napkins",public,goods,CIPO_manual,-,300000171620300
+9,0,contact lenses: goggles for sports,public,goods,CIPO_manual,-,300000171620300
+9,0,spectacle glasses,public,goods,CIPO_manual,-,300000171620300
+18,0,traveling trunks,public,goods,CIPO_manual,-,300000171620300
+18,0,schoolchildren's knapsacks,public,goods,CIPO_manual,-,300000171620300
+18,0,"pouches, namely leather, felt pouches, and drawstring pouches",public,goods,CIPO_manual,-,300000171620300
+18,0,"leather, canvas and textile shopping bags",public,goods,CIPO_manual,-,300000171620300
+18,0,leather bags for merchandise packaging,public,goods,CIPO_manual,-,300000171620300
+18,0,"vanity cases, not fitted and sold empty",public,goods,CIPO_manual,-,300000171620300
+18,0,folding umbrellas,public,goods,CIPO_manual,-,300000171620300
+18,0,walking sticks and canes,public,goods,CIPO_manual,-,300000171620300
+41,0,educational services for learners and educators of african descent in the field of africentrism,public,services,CIPO_manual,-,300000171620900
+41,0,educational research services in the field of africentrism,public,services,CIPO_manual,-,300000171620900
+41,0,public policy research services in the field of africentric education,public,services,CIPO_manual,-,300000171620900
+41,0,creating culture-specific africentric materials for early childhood and youth curricula,public,services,CIPO_manual,-,300000171620900
+41,0,providing skills development and continuing education opportunities to educators of african descent,public,services,CIPO_manual,-,300000171620900
+41,0,"workshops and conferences for african nova scotian learners, parents, and educators in the field of africentrism",public,services,CIPO_manual,-,300000171620900
+41,0,community-focused advocacy and consultation in the field of africentric education,public,services,CIPO_manual,-,300000171620900
+41,0,"promoting awareness of, and responding to, issues relevant to african nova scotian learners and educators",public,services,CIPO_manual,-,300000171620900
+28,0,"snowglobes, christmas stockings",public,goods,CIPO_manual,-,300000171621300
+16,0,"commemorative tickets, scrapbook kits, posters",public,goods,CIPO_manual,-,300000171621300
+28,0,"seasonal and household ornaments, namely holiday ornaments",public,goods,CIPO_manual,-,300000171621300
+21,0,tumblers,public,goods,CIPO_manual,-,300000171621300
+25,0,"t-shirts, caps, hats, pajamas",public,goods,CIPO_manual,-,300000171621300
+14,0,"jewellery pins, keychains",public,goods,CIPO_manual,-,300000171621300
+6,0,"metal ornamental bells, metal bookmarks",public,goods,CIPO_manual,-,300000171621300
+36,0,"monetary affairs, namely monetary exchange services, foreign currency trading, currency exchange, currency transfer services, money transfer services",public,services,CIPO_manual,-,300000171621600
+36,0,"financial services, namely foreign currency trading, exchange and transfers",public,services,CIPO_manual,-,300000171621600
+36,0,electronic money transfers,public,services,CIPO_manual,-,300000171621600
+36,0,"financial transactions, namely currency conversion, trading, exchange and transfers by means of telephone, telegraph, cable and satellite transmission, and via intranets and the internet",public,services,CIPO_manual,-,300000171621600
+36,0,"the provision of information, advice and consultancy in the field of monetary affairs, namely monetary exchange, foreign currency trading, currency exchange, currency transfer services, money transfer services, financial services, namely foreign currency trading, exchange and transfers, electronic money transfers, financial transactions, namely currency conversion, trading, exchange and transfers by means of telephone, telegraph, cable and satellite transmission, and via intranets and the internet",public,services,CIPO_manual,-,300000171621600
+25,0,"clothing namely, t-shirts, shirts, sweaters, hats, pants, jerseys, shorts, jackets, socks, boxers, and belt buckles",public,goods,CIPO_manual,-,300000171624700
+41,0,"entertainment services namely, conducting events and parties, and entertainment shows for children and adults in the field of dance festivals, hockey and basketball competitions, and musical concerts",public,services,CIPO_manual,-,300000171624700
+41,0,"organizing and conducting conferences, workshops and seminars in the fields of social innovation, sponsorship, marketing and brand management",public,services,CIPO_manual,-,300000171624800
+41,0,"education services, namely, education in the fields of social innovation, sponsorship, marketing and brand management",public,services,CIPO_manual,-,300000171624800
+35,0,"providing a centralized marketplace and forum for corporations, non-profit organizations and social enterprises to search for and form partnerships and alliances for social innovation ventures",public,goods,CIPO_manual,-,300000171624800
+35,0,"consulting services, namely, advising corporations, non-profit organizations and social enterprises on social innovation, partnerships and alliances for social innovation ventures, business marketing and business development",public,goods,CIPO_manual,-,300000171624800
+35,0,branding consultancy services,public,goods,CIPO_manual,-,300000171624800
+35,0,"the analysis, evaluation, creation and brand establishment of trade-marks, trade names, logos, corporate identities and domain names",public,goods,CIPO_manual,-,300000171624800
+35,0,"business management services in the field of brand names, namely, brand positioning, brand testing, brand strategy, public relations services, and consultation services related thereto",public,goods,CIPO_manual,-,300000171624800
+35,0,business strategic planning in the field of brands,public,goods,CIPO_manual,-,300000171624800
+35,0,"marketing services, namely market analysis and sponsorship marketing through the promotional sponsorship of events, activities, persons or organizations",public,goods,CIPO_manual,-,300000171624800
+35,0,publicity services,public,goods,CIPO_manual,-,300000171624800
+35,0,"consulting services, namely, consulting in the field of sponsorship through the provision of strategic planning, development of audits and reviews, feasibility studies and sponsorship proposal development and mentoring",public,goods,CIPO_manual,-,300000171624800
+35,0,"business consulting services in the fields of staffing, recruiting, sourcing, hiring, and job placement, namely, human resource management consulting and hiring process consulting",public,goods,CIPO_manual,-,300000171624800
+35,0,"business information services in the field of staffing, recruiting, sourcing, hiring, and job placement",public,goods,CIPO_manual,-,300000171624800
+35,0,"job placement services for mentally handicapped people, physically handicapped people, disabled people, elderly people, homeless people, disadvantaged people and people with criminal records",public,goods,CIPO_manual,-,300000171624800
+30,0,"a food ""namely of an emulsion, namely sandwich spread and dressing"" the sandwich spread and dressing consisting of oil, water and a stabilizer, wherein said stabilizer is selected from a single-cell microorganism selected from yeast, the genus of lactic bacteria and combinations thereof the sandwich spread and dressing also comprising of a biopolymer, protein, polysaccharide or a combination thereof, with or without surfactant, surface active material or a combination thereof sandwich spread and dressing further comprising at least one agent selected from the group consisting of a flavouring agent, colouring agent, an acidulant, a salt, an antioxidant, a preservative, an emulsifier, a vitamin, a mineral, a fragrant agent, and combinations thereof",public,goods,CIPO_manual,-,300000171625100
+2,0,"anti-corrosive high build, single component coating for application to metal and plastic vehicle parts",public,goods,CIPO_manual,-,300000171628200
+42,0,design and development of decision support software applications,public,services,CIPO_manual,-,300000171630400
+42,0,design and development of decision support software applications,public,services,CIPO_manual,-,300000171630900
+42,0,"development of machines or apparatus for the plastics industry and for process engineering, in particular machines and apparatus for treatment and processing of plastics, and laboratory and pilot installations for plastics treatment and processing",public,services,CIPO_manual,-,300000171631700
+42,0,"development of rolling mills, in particular testing rolling mills, measuring rolling mills, or rubber rolling mills",public,services,CIPO_manual,-,300000171631700
+42,0,"development of calenders, in particular sheeting calenders, dual-roller calenders, laminating calenders, moulding calenders for trays or polishing calenders",public,services,CIPO_manual,-,300000171631700
+42,0,"development of presses, in particular plate presses, test presses, vacuum presses or high-temperature presses",public,services,CIPO_manual,-,300000171631700
+42,0,"development of kneaders, extruders and extrusion installations, in particular two-roll kneading machines, twin-screw extruders, test extruders, measuring extruders, rubber extruders, pelletisers, in particular strand pelletisers and die-face pelletisers, pipe extrusion installations, co-extrusion installations, cast-film installations, extrusion coating installations or blown film installations",public,services,CIPO_manual,-,300000171631700
+42,0,"development of testing installations, in particular installations for testing the purity of polymer melt, rheometers and installations for the optical testing of plastic products, in particular plastic foils",public,services,CIPO_manual,-,300000171631700
+42,0,development of machines for production of extrudates for medical purposes,public,services,CIPO_manual,-,300000171631700
+42,0,"development of machines for manufacture of medical compounds, moulding calenders, catheter tubes or infusion bags",public,services,CIPO_manual,-,300000171631700
+7,0,"machines and apparatus for the plastics industry or for process engineering, in particular machines for treatment and processing of plastics, and laboratory and pilot installations for plastics treatment and processing",public,goods,CIPO_manual,-,300000171631700
+7,0,"rolling mills, in particular testing rolling mills, measuring rolling mills, or rubber rolling mills",public,goods,CIPO_manual,-,300000171631700
+7,0,"calenders, in particular sheeting calenders, dual-roller calenders, laminating calenders, moulding calenders for trays or polishing calenders",public,goods,CIPO_manual,-,300000171631700
+7,0,"squeezers, in particular plate presses, test presses, vacuum presses or high-temperature presses",public,goods,CIPO_manual,-,300000171631700
+7,0,"kneaders, extrusion presses and extrusion installations, in particular two-roll kneading machines, twin-screw extruders, test extruders, measuring extruders, rubber extruders, pelletizers, in particular strand pelletisers and die-face pelletisers, pipe extrusion installations, co-extrusion installations, cast-film installations, extrusion coating installations or blown film installations",public,goods,CIPO_manual,-,300000171631700
+7,0,"testing installations, in particular installations for testing the purity of polymer melt, rheometers and installations for the optical testing of plastic products, in particular plastic foils",public,goods,CIPO_manual,-,300000171631700
+7,0,machines for production of extrudates for medical purposes,public,goods,CIPO_manual,-,300000171631700
+7,0,"machines for manufacturing of medical compounds, moulding calenders, catheter tubes or infusion bags",public,goods,CIPO_manual,-,300000171631700
+18,0,"dog collars, dog leashes",public,goods,CIPO_manual,-,300000171633200
+28,0,"baseball bats, dog toys, hockey sticks",public,goods,CIPO_manual,-,300000171633200
+21,0,"cooking utensils, cutting boards",public,goods,CIPO_manual,-,300000171633200
+30,0,"pizza, pizza dough, bread, pretzels, mustard, barbeque sauce, chocolate, chocolates, chocolate bars, caramel popcorn, popcorn",public,goods,CIPO_manual,-,300000171633200
+35,0,"distributorship services featuring audio, visual and multimedia content of interest to children via a global computer network",public,goods,CIPO_manual,-,300000171634200
+42,0,design of interactive multimedia content in the nature of children's videos and electronic books for distribution over the internet,public,services,CIPO_manual,-,300000171634200
+42,0,"providing temporary use of online, non-downloadable software for creating an electronic book",public,services,CIPO_manual,-,300000171634200
+42,0,"providing temporary use of online non-downloadable interactive and multimedia computer software, educational and entertainment computer software of interest to children",public,services,CIPO_manual,-,300000171634200
+42,0,providing temporary use of online non-downloadable software for electronic publishing of children's books,public,services,CIPO_manual,-,300000171634200
+41,0,publishing of an electronic publication via a global computer network,public,services,CIPO_manual,-,300000171634200
+41,0,providing an interactive website featuring information in the field of entertainment for children,public,services,CIPO_manual,-,300000171634200
+41,0,production and distribution of children's films,public,services,CIPO_manual,-,300000171634200
+41,0,"entertainment services, namely, production of children's interactive multimedia content for distribution over the internet",public,services,CIPO_manual,-,300000171634200
+41,0,providing online non-downloadable interactive electronic children's books,public,services,CIPO_manual,-,300000171634200
+41,0,interactive on-line non-downloadable electronic children's books,public,services,CIPO_manual,-,300000171634200
+41,0,providing a website featuring videos in the field of children's entertainment,public,services,CIPO_manual,-,300000171634200
+3,0,"personal care products and perfumery products, namely, perfume, eau de parfum, eau de cologne, eau de toilette, body splash, body mist, body spray, body scrub, body wash, body soap, body cream, body lotion, body powder, bubble bath, shower gel, hand soap, hand cream, hand lotion",public,goods,CIPO_manual,-,300000171634700
+9,0,"pre-recorded cds, video tapes, laser disks and dvds featuring music",public,goods,CIPO_manual,-,300000171638000
+9,0,downloadable audio and video recordings featuring music,public,goods,CIPO_manual,-,300000171638000
+9,0,record turntable slip mat,public,goods,CIPO_manual,-,300000171638000
+21,0,"beverage cozies, namely, insulating sleeves for beverage cans and cups",public,goods,CIPO_manual,-,300000171638200
+5,0,air freshener and deodorizer,public,goods,CIPO_manual,-,300000171638200
+25,0,"clothing, namely, shirts and t-shirts",public,goods,CIPO_manual,-,300000171638200
+3,0,face and body stickers,public,goods,CIPO_manual,-,300000171638200
+9,0,"pre-recorded cd's, video tapes, laser disks and dvds featuring music",public,goods,CIPO_manual,-,300000171638200
+9,0,downloadable audio and video recordings featuring music,public,goods,CIPO_manual,-,300000171638200
+41,0,"entertainment services, namely, providing non-downloadable prerecorded music, information in the field of music, and commentary and articles about music, all on-line via a global computer network namely internet",public,services,CIPO_manual,-,300000171638200
+41,0,presentation of live musical performances,public,services,CIPO_manual,-,300000171638200
+41,0,arranging and conducting music festivals,public,services,CIPO_manual,-,300000171638200
+41,0,providing a website featuring blogs in the field of music and entertainment,public,services,CIPO_manual,-,300000171638200
+5,0,air fragrancing preparations namely air freshener and deodorizer,public,goods,CIPO_manual,-,300000171638400
+14,0,"jewelry, namely, earrings, necklaces and ornamental pins made of non precious metal",public,goods,CIPO_manual,-,300000171638400
+41,0,presentation of live musical performances,public,services,CIPO_manual,-,300000171638400
+41,0,providing a website featuring blogs in the field of music and entertainment,public,services,CIPO_manual,-,300000171638400
+41,0,"entertainment services, namely, providing non-downloadable prerecorded music, videos in the field of music, information in the field of music, and commentary and articles about music, all on-line via a global computer network namely internet",public,services,CIPO_manual,-,300000171638400
+34,0,glass nug jar for tobacco,public,goods,CIPO_manual,-,300000171638400
+34,0,cigarette rolling paper,public,goods,CIPO_manual,-,300000171638400
+9,0,"pre-recorded cds, video tapes, laser disks and dvds featuring music",public,goods,CIPO_manual,-,300000171638400
+9,0,downloadable audio and video recordings featuring music,public,goods,CIPO_manual,-,300000171638400
+9,0,phone case,public,goods,CIPO_manual,-,300000171638400
+35,0,"online retail store services featuring downloadable music and videos and a wide variety of consumer goods namely air freshener and deodorizer, phonograph records featuring music, pre-recorded cds, video tapes, laser disks and dvds featuring music, downloadable audio and video recordings featuring music, phone case, jewelry, namely, earrings, necklaces and ornamental pins made of non precious metal, stickers, tote bags, glass nug jar, clothing, namely, shirts, caps, top namely blouses, bottoms namely pants, shorts, t-shirts, fleece shirts, hoodies, tank tops, knitted hats, scarves and socks, small toys, cigarette rolling paper",public,goods,CIPO_manual,-,300000171638400
+25,0,"clothing, namely, shirts, caps, top namely blouses, bottoms namely pants, shorts, t-shirts, fleece shirts, hoodies, tank tops, knitted hats, scarves and socks",public,goods,CIPO_manual,-,300000171638400
+35,0,"business marketing consulting services relating to retail sales of skincare products, vitamins, and nutritional supplements, and business marketing consultancy services in relation to retail and wholesale sales of skincare products, vitamins, and nutritional supplements",public,goods,CIPO_manual,-,300000171639400
+5,0,"vitamins and nutritional supplements for general health and well-being, including vitamins in capsule form, protein powers for meal replacements and meal replacement shakes",public,goods,CIPO_manual,-,300000171639400
+44,0,facial and massage services,public,services,CIPO_manual,-,300000171639900
+3,0,natural skin care preparations,public,goods,CIPO_manual,-,300000171639900
+9,0,"membranes, especially for use with dispensers, pump apparatus and filter apparatus for quantitative and qualitative testing in microbiology laboratories",public,goods,CIPO_manual,-,300000171641700
+9,0,dispenser of membranes used for quantitative and qualitative testing in microbiology laboratories,public,goods,CIPO_manual,-,300000171641700
+9,0,pump apparatus for drawing fluid samples through membranes used for quantitative and qualitative testing in microbiology laboratories,public,goods,CIPO_manual,-,300000171641700
+9,0,filter apparatus for use with membranes and fluid pumps used for quantitative and qualitative testing in microbiology laboratories,public,goods,CIPO_manual,-,300000171641700
+9,0,"pump apparatus for drawing fluid samples through membranes, especially for use in quantitative and qualitative testing in microbiology laboratories",public,goods,CIPO_manual,-,300000171641700
+9,0,"pump apparatus for drawing fluid samples through membranes, especially for use in quantitative and qualitative testing in microbiology laboratories, namely tubes and adaptors",public,goods,CIPO_manual,-,300000171641700
+9,0,"filter apparatus for use with membranes and fluid pumps, especially for use in quantitative and qualitative testing in microbiology laboratories",public,goods,CIPO_manual,-,300000171641700
+9,0,"filter apparatus for use with membranes and fluid pumps, especially for use in quantitative and qualitative testing in microbiology laboratories, namely funnels",public,goods,CIPO_manual,-,300000171641700
+35,0,business administration,public,goods,CIPO_manual,-,300000171642600
+35,0,provision of space on web sites for advertising goods and services,public,goods,CIPO_manual,-,300000171642600
+35,0,analysis of advertising response and market research,public,goods,CIPO_manual,-,300000171642600
+35,0,"the bringing together, for the benefit of others, of a variety of goods, namely common metals and their alloys, metal key holders, metal key rings, metal key chains, metal key clips and metal money clips, identification bracelets made of metal and non-precious metal bracelets, decorative metal boxes, jewellery boxes made of metal/non-precious metal, letter boxes made of metal, figurines of common metal, non-precious metal, decorative tin cans , cash registers, computers, motion picture films featuring comedy, drama, action, adventure and animation, and motion picture films for broadcast on television featuring comedy, drama, action, adventure and animation, pre-recorded vinyl records, audio tapes, audio-video tapes, audio video cassettes, audio video discs, and digital versatile discs featuring music, comedy, drama, action, adventure, and animation, stereo headphones, cordless telephones, mobile telephones, parts for mobile telephones, mobile telephone covers, mobile telephone cases, mobile telephone cases made of leather and imitation of leather, mobile telephone covers made of cloth and textile materials, telephone and radio pagers, hand-held calculators, audio cassette and cd players, cd rom games, video and computer game programs, video game discs, cartridges and cassettes, downloadable digital music provided from the internet, downloadable digital music provided from mp3 internet web sites, mp3 players, hand-held karaoke players, telephone and radio pagers, short motion picture film cassettes featuring comedy, drama, action, adventure and animation to be used with hand-held viewers and projectors, video cassette recorders and players, compact disc players, digital audio tape recorders and players, electronic diaries, radios, mouse pads, eyeglasses, sunglasses and cases therefore, audio tapes sold together with booklets, computer programs, software linking digitised video and audio media to a global computer information network, game equipment sold as a unit for playing a parlour-type computer game, video and computer game programs, video game cartridges and cassettes, and decorative magnets, swimming floats, kickboard flotation devices, swim boards, global positioning systems, parts and fittings for all of the aforementioned goods, precious metals and their alloys, jewellery, precious stones, clocks, alarm clocks, desk clocks, watches, alarm watches, sporting watches, jewellery, costume jewellery, bracelets, ankle bracelets, brooches, chains, cuff-links, earrings, lapel pins, tie pins, tie clips, necklaces, ornamental pins, pendants, rings, key rings, belt buckles of precious metal for clothing, action figures (decorative) of precious metal, figurines of precious stones, figurines coated with precious metal, adhesive wall decorations of precious metal, amulets, cases for clocks, watches and jewels, coins, paper, cardboard, bookbinding material, photographs, adhesives for stationery and household purposes, paint brushes, typewriters, printers' type, printing blocks, books featuring characters from animated, action, adventure, comedy and drama features, comics, graphic novels, children's stories, magazines featuring characters from animated, action adventure, comedy and drama features, colouring pads, children's activity pads, booklets sold together with audio tapes, writing paper, envelopes, notebooks, diaries, note cards, greeting cards, trading cards, lithographs, pens, pencils, cases therefor, erasers, crayons, markers, coloured pencils, painting sets, chalk and chalkboards, decals, heat transfers, posters, mounted and unmounted photographs, book covers, book marks, calendars, gift wrapping paper, paper party decorations, paper napkins, paper doilies, paper place mats, crepe paper, invitations, paper table cloths, paper cake decorations, printed transfers for embroidery and fabric appliqués, printed patterns for costumes, pyjamas, sweatshirts and t-shirts, leather and imitations of leather, animal skins, hides, trunks and travelling bags, umbrellas, parasols and walking sticks, whips, harness and saddlery, athletic bags, bath bags, beach bags, book bags, diaper bags, duffel bags, leather bags, school bags, shoe bags, shopping bags, tote bags, toiletry bags, suit carriers being travelling bags, waist bags, backpacks, knapsacks, fanny packs, waist packs, wallets, purses, chain mesh purses, not of precious metal, clutch purses, coin purses, cosmetic purses, evening purses, leather purses, purses, not of precious metal, parts for all of the aforementioned, office furniture, mirrors, picture frames, photograph frames, photograph frames of metal, wood and paper, wall plaques, key cards, curtain holders, hooks, rails, rods, rollers and tie-backs, bamboo, bamboo curtains and bamboo blinds, bead curtains, blinds, jewellery boxes, storage containers, trunks and chests, cabinets, chairs, desks and tables, dressing tables, easy chairs, bed fittings not of metal, bedsteads, furniture screens, clothes hooks and coat hangers, coat stands, garment covers, cushions, divans, mattresses, pillows, support pillows for use in baby car safety seats, support pillows for use in baby seating, sleeping bags, door fittings and door furniture, drinking straws, flower stands, footstools, hat stands, display boards, bottle caps not of metal, bottle casings of wood, bottle racks, magazine racks, plate racks, mirror tiles, trays not of metal, high chairs for babies, playpens for babies and walkers for infants, mobiles, cots, cradles and cribs, chimes, statuettes and figurines of wood, wax, plaster and of plastic, parts for the foregoing, brush-making materials, steel wool, beverage glassware, cutting boards, jugs, bowls, mugs, plastic water bottles, bottle openers, lunch boxes, cookie cutters, pans, kettles, dishes, non-electric waffle irons, non-electric coffee pots not of precious metal, plates not of precious metal, ice pails buckets, champagne buckets, shower caddies, not of precious metal, tea caddies, not of precious metal, soap boxes, vacuum bottles, hair combs, powder compacts sold empty, non-metal decorative boxes, dusting brushes, hair brushes, brushes for clothes, bathroom pails, cake moulds, plastic coasters, coffee cups, drinking glasses, demitasse sets consisting of cups and saucers, plastic coasters, cocktail shakers, thermal insulated containers for food and beverages, cork screws, corn cob holders, decanters, drinking flasks, infant cups, cookie jars, napkin holders, towel holders, toothpicks, toothpick holders, paper cups, paper plates, non-metal piggy banks, plastic cups, salt shakers, pepper pots, shoe horns, window dusters, toothbrushes, toothbrush cases, wash basins, waste baskets, incense pots, baby bath tubs, bird cages, serving trays not of precious metal, serving utensils, pie servers, cake turners, spatulas, scrapers and cake servers, vases not of precious metal, candlestick holders not of precious metal, statues and figurines made of china, ceramic, earthenware, glass and porcelain, chopsticks, gardening gloves, rubber household gloves, parts for all of the aforementioned, bed and table covers, rugs, travelling rugs, lap rugs, towels, bed linen, blankets, bedspreads, quilts, canopies, bed pads, bed sheets, pillow cases, comforters, duvet covers, mattress covers, crib bumpers, mosquito nets, pillow shams, table linen, place mats, napkins, serviettes and table runners, kitchen linens, barbecue mitts, cloth doilies, cloth napkins, dish cloths, fabric table cloths, kitchen towels, fabric place mats, oven mitts, washing mitts, pot holders, cloth coasters, curtains, draperies, curtain holders of cloth, banners, handkerchiefs, bath linen, bath towels and wash cloths, household linen, coverings of textile and of plastic for furniture, covers for toilet lids of fabric, covers for cushions, loose covers for furniture, textile wall hangings, shower curtains, cotton, polyester and nylon fabric, fabric of imitation animal skins, upholstery fabrics, lingerie fabric, golf towels, shirts, t-shirts, sweatshirts, jogging suits, trousers, jeans, pants, shorts, tank tops, rainwear, cloth bibs, skirts, blouses, dresses, suspenders, sweaters, jackets, coats, raincoats, snow suits, ties, robes, hats, caps, sun visors, belts, scarves, sleepwear, pyjamas, lingerie, underwear, boots, shoes, sneakers, sandals, booties, slipper socks, swimwear and masquerade and halloween costumes, lace and embroidery, ribbons, hooks and eyes, sewing thimbles, artificial flowers, badges for wear, not of precious metal, ornaments for the hair, hair bands, hair pins, barrettes, bows for the hair, brooches for clothing, sewing boxes, cosies for beverages and food, cushions for pins, decorative ribbons, shoe laces, carpets, rugs, floor coverings, wallpaper, vinyl and linoleum floor coverings, ceiling coverings, bath mats, door mats, reed mats, gymnasium mats, action figures, plush toys, bathtub toys, ride-on toys, playing cards, equipment sold as a unit for playing card games, toy vehicles, dolls, flying discs, standalone video output game machines, coin and counter operated arcade games, pinball game machines, electronic hand-held game units, game equipment sold as a unit for playing a board game, a card game, a parlour game, a parlour-type computer game, jigsaw and manipulative puzzles, paper party favours, paper hats, paper face masks, masquerade and halloween masks, skateboards, ice skates, water squirting toys, soccer balls, baseballs, basketballs, baseball gloves, surfboards, swimming floats for recreational use, swim boards for recreational use, swim fins, toy zip guns, toy bake ware and toy cookware, toy banks, toy snow globes, bill and card operated photo booths which take photographs and allow the user to receive photographs, mobile phone straps, headphones, telephone sets, dvd players, computers, electronic circuits, video game discs and cartridges, mouse mats, home video games, game equipment sold as a unit for playing a parlour-type computer game, cd-rom computer game discs, cellular telephone, cellular telephone covers, downloadable music files, exposed cinematographic films, exposed slide films, slide film mounts, downloadable image files, motion picture films featuring comedy, drama, action, adventure and animation, and motion picture films for broadcast on television featuring comedy, drama, action, adventure and animation, audio tapes, audio-video tapes, audio video cassettes, audio video discs, and digital versatile discs featuring music, comedy, drama, action, adventure, and animation, short motion picture film cassettes featuring comedy, drama, action, adventure and animation to be used with hand-held viewers and projectors, downloadable video files, downloadable graphics, images and music via a global computer network and wireless devices, downloadable multimedia files, text files, protective helmets,electronic games for mobile phones, keyrings, trinkets and fobs, trophies [prize cups], commemorative shields, personal ornaments, badges of precious metal, medallions, beads for making jewellery, boxes of precious metals, gold thread, silver thread, statuettes of precious metal, jewellery cases clocks and watches, buckles for watch straps, watch straps, watch chains, watch crystals, comics, graphic novels, children's stories, magazines featuring characters from animated, action adventure, comedy and drama features, colouring pads, children's activity pads, gift boxes, coasters of paper, banners of paper, flags of paper, hygienic paper, towels of paper, hand towels of paper, handkerchiefs of paper, paper, cardboard gift wrap, stickers, notebooks, greetings cards, address books, scratch paper, personal organisers, photograph albums, gift tags, pencil cases, magazines, posters, calendars, books, printed publications, catalogues, , book covers, maps, printed tour guides, collectable trading cards and stickers, trading cards, diaries, photographs, photograph stands, mounted and unmounted photographs, postcards, , brochures, leaflets, computer game strategy guides, posters, ink stands, inkwells, sealing wax, sealing wafers, sealing stamps, tracing cloth, stands for pencils and pens, industrial packaging containers of leather, unworked and semi-worked leather and fur, clothing for domestic pets, leather belts, card cases, key cases, purses, wallets, backpacks, travel luggage, trunks and travelling bags, rucksacks, vanity cases (not fitted), parasols and their parts, canes, metal parts of canes and walking-sticks, walking cane handles, harness fittings, neck ties, socks, beach shoes, galoshes, half-boots, lace boots, sports shoes, wooden shoes, high-heel shoes, masquerade costumes, play costumes, clothes for sports, boots for sports, berets, ear muffs, headbands, printed t-shirts, printed polo shirts, short-sleeved and long-sleeved t-shirts, fleece pullovers, fleece hoodie jackets, fleece jackets, vests, overcoats, sports-coats, raincoats, trench-coats, leather and fabric coats, anoraks, parkas, blazers, wind resistant jackets, bed jackets, boleros, dusters, shawls, capes, cassocks, dress shirts, knit shirts, cardigans, turtlenecks, denim jeans, dress slacks and casual slacks, hosiery, slippers, neckwear, ascots, mittens, bodysuits, sun-visors, parts for all the aforesaid goods, toys, arcade video game machines, electronic circuits for use with arcade video game machines, arcade video game machines other than those adapted for use with an external display, screen and monitor, vehicle toys, electronic toys, hand-held games with liquid crystal displays, stuffed toys, developmental toys, play sets for dolls, stuffed plush dolls, collectable range of dolls, collectable range of stuffed plush toys, action figures, toy action figures clothing for toy action figures and dolls, educational toys, hand held electronic games, handheld games with liquid crystal displays, electronic hand-held game units, puzzles, plastic toys, toy figurines, action figures, toy models, bath toys, inflatable toys, christmas crackers, christmas ornaments, christmas tree ornaments, decorations for christmas trees, kites, puppets, costumes being children's playthings, dice, cups for dice, chess games, checkers, dominoes, mah-jong, game equipment sold as a unit for playing a board game, a card game, a manipulative game, a parlour game, a parlour-type computer game, board games, billiard equipment, darts, digital darts, automatic slot machines, gaming machines, skateboards, wheeled toys scooters, bicycles and tricycles for play, play balloons, knee pads, elbow pads, carpet underlay, carpets for automobiles, mats of woven rope for ski slopes, non-slip mats, enabling customers to conveniently view and purchase said goods from a general merchandise catalogue, by mail order, by means of telecommunications, namely, television broadcasting services, radio and through the internet, by means of a general merchandise store, internet web site, a department store, a toy, gift and novelty retail store, a film and television merchandise retail store and through a television shopping channel",public,goods,CIPO_manual,-,300000171642600
+35,0,business management of literary agencies,public,goods,CIPO_manual,-,300000171642600
+35,0,advertising the wares and services of others for the literary industry,public,goods,CIPO_manual,-,300000171642600
+35,0,management of performance artists,public,goods,CIPO_manual,-,300000171642600
+28,0,decorations for christmas trees,public,goods,CIPO_manual,-,300000171642600
+28,0,"toys namely dolls, action figures and accessories therefor",public,goods,CIPO_manual,-,300000171642600
+28,0,"arcade video game machines other than those adapted for use with an external display, screen and monitor",public,goods,CIPO_manual,-,300000171642600
+28,0,standalone video output game machines,public,goods,CIPO_manual,-,300000171642600
+28,0,pinball game machines,public,goods,CIPO_manual,-,300000171642600
+28,0,coin and counter operated arcade games,public,goods,CIPO_manual,-,300000171642600
+28,0,vehicle toys,public,goods,CIPO_manual,-,300000171642600
+28,0,developmental toys play sets for dolls,public,goods,CIPO_manual,-,300000171642600
+28,0,stuffed plush dolls,public,goods,CIPO_manual,-,300000171642600
+28,0,collectable range of dolls,public,goods,CIPO_manual,-,300000171642600
+28,0,collectable range of stuffed plush toys,public,goods,CIPO_manual,-,300000171642600
+28,0,toy zip guns,public,goods,CIPO_manual,-,300000171642600
+28,0,toy bake ware and toy cookware,public,goods,CIPO_manual,-,300000171642600
+28,0,clothing for toy action figures and dolls,public,goods,CIPO_manual,-,300000171642600
+28,0,hand held electronic games,public,goods,CIPO_manual,-,300000171642600
+28,0,"plastic toys, namely plastic character toys",public,goods,CIPO_manual,-,300000171642600
+28,0,christmas crackers,public,goods,CIPO_manual,-,300000171642600
+28,0,christmas ornaments,public,goods,CIPO_manual,-,300000171642600
+28,0,christmas tree ornaments,public,goods,CIPO_manual,-,300000171642600
+28,0,paper hats,public,goods,CIPO_manual,-,300000171642600
+28,0,masquerade and halloween masks,public,goods,CIPO_manual,-,300000171642600
+28,0,"game equipment sold as a unit for playing a board game, a card game, a parlour game, a parlour-type computer game",public,goods,CIPO_manual,-,300000171642600
+28,0,trading cards game cards,public,goods,CIPO_manual,-,300000171642600
+28,0,digital darts,public,goods,CIPO_manual,-,300000171642600
+28,0,automatic slot machines,public,goods,CIPO_manual,-,300000171642600
+28,0,coin slot machines,public,goods,CIPO_manual,-,300000171642600
+28,0,"wheeled toy scooters, bicycles and tricycles for play kites ice skates",public,goods,CIPO_manual,-,300000171642600
+28,0,"playground balls, soccer balls, baseballs, basketballs",public,goods,CIPO_manual,-,300000171642600
+28,0,play balloons baseball gloves,public,goods,CIPO_manual,-,300000171642600
+28,0,"knee pads, elbow pads",public,goods,CIPO_manual,-,300000171642600
+3,0,"perfumery, essential oils for personal use",public,goods,CIPO_manual,-,300000171642600
+3,0,"cosmetics, hair lotions",public,goods,CIPO_manual,-,300000171642600
+3,0,"liquid bath soap, gel soap, bar soap",public,goods,CIPO_manual,-,300000171642600
+3,0,sun tanning preparations,public,goods,CIPO_manual,-,300000171642600
+3,0,"sunscreen preparations, namely cream and lotion",public,goods,CIPO_manual,-,300000171642600
+3,0,pre-shave and after-shave cream and lotions,public,goods,CIPO_manual,-,300000171642600
+3,0,body cream and lotion,public,goods,CIPO_manual,-,300000171642600
+3,0,hand cream and lotion,public,goods,CIPO_manual,-,300000171642600
+3,0,skin cleanser and non-medicated body soaks,public,goods,CIPO_manual,-,300000171642600
+3,0,"body deodorant, cologne and perfume",public,goods,CIPO_manual,-,300000171642600
+3,0,bath powder and perfumed body powder,public,goods,CIPO_manual,-,300000171642600
+3,0,"bath oil, bath gel and non-medicated bath salts",public,goods,CIPO_manual,-,300000171642600
+3,0,"baby oil, baby powder, baby gel and baby lotion",public,goods,CIPO_manual,-,300000171642600
+3,0,cosmetics all for sale as part of a kit,public,goods,CIPO_manual,-,300000171642600
+3,0,"lipstick, lip gloss, non-medicated lip balm",public,goods,CIPO_manual,-,300000171642600
+3,0,"face powder, face cream",public,goods,CIPO_manual,-,300000171642600
+3,0,nail care and manicure kits,public,goods,CIPO_manual,-,300000171642600
+3,0,massage oils and lotions all for sale as part of a kit,public,goods,CIPO_manual,-,300000171642600
+16,0,"paper, cardboard",public,goods,CIPO_manual,-,300000171642600
+16,0,"printed matter namely, books featuring characters from animated, action, adventure, comedy and drama features, comics, graphic novels, children's stories, magazines featuring characters from animated, action adventure, comedy and drama features, colouring books, children's books",public,goods,CIPO_manual,-,300000171642600
+16,0,booklets sold together with audio tapes,public,goods,CIPO_manual,-,300000171642600
+16,0,"writing paper, envelopes, notebooks, diaries, note cards",public,goods,CIPO_manual,-,300000171642600
+16,0,"greeting cards, trading cards",public,goods,CIPO_manual,-,300000171642600
+16,0,"pens, pencils, cases therefor, erasers, crayons, coloured pencils, painting sets, chalk and chalkboards",public,goods,CIPO_manual,-,300000171642600
+16,0,"decals, heat transfers",public,goods,CIPO_manual,-,300000171642600
+16,0,"book covers, book marks, calendars, gift wrapping paper",public,goods,CIPO_manual,-,300000171642600
+16,0,"paper napkins, paper doilies, paper place mats, crepe paper, invitations, paper table cloths, paper cake decorations",public,goods,CIPO_manual,-,300000171642600
+16,0,printed transfers for embroidery and fabric appliqués,public,goods,CIPO_manual,-,300000171642600
+16,0,"printed patterns for costumes, pyjamas, sweatshirts and t-shirts",public,goods,CIPO_manual,-,300000171642600
+16,0,"gift bags, gift boxes",public,goods,CIPO_manual,-,300000171642600
+16,0,"paper, cardboard",public,goods,CIPO_manual,-,300000171642600
+16,0,"greetings cards, address books, scratch paper",public,goods,CIPO_manual,-,300000171642600
+16,0,personal organisers,public,goods,CIPO_manual,-,300000171642600
+16,0,gift tags,public,goods,CIPO_manual,-,300000171642600
+16,0,magazines [publication],public,goods,CIPO_manual,-,300000171642600
+16,0,"printed publications featuring comedy, drama, action, adventure, and animation",public,goods,CIPO_manual,-,300000171642600
+16,0,"book covers, maps",public,goods,CIPO_manual,-,300000171642600
+16,0,"printed tour guides, printed brochures",public,goods,CIPO_manual,-,300000171642600
+16,0,collectable trading cards and stickers,public,goods,CIPO_manual,-,300000171642600
+16,0,computer game strategy guides,public,goods,CIPO_manual,-,300000171642600
+16,0,ink stands,public,goods,CIPO_manual,-,300000171642600
+16,0,sealing wafers,public,goods,CIPO_manual,-,300000171642600
+16,0,stands for pencils and pens,public,goods,CIPO_manual,-,300000171642600
+21,0,pans,public,goods,CIPO_manual,-,300000171642600
+21,0,kettles,public,goods,CIPO_manual,-,300000171642600
+21,0,non-electric coffee pots not of precious metal,public,goods,CIPO_manual,-,300000171642600
+21,0,plates not of precious metal,public,goods,CIPO_manual,-,300000171642600
+21,0,ice pails buckets,public,goods,CIPO_manual,-,300000171642600
+21,0,"shower caddies, not of precious metal",public,goods,CIPO_manual,-,300000171642600
+21,0,"tea caddies, not of precious metal",public,goods,CIPO_manual,-,300000171642600
+21,0,non-metal decorative boxes,public,goods,CIPO_manual,-,300000171642600
+21,0,brushes for clothes,public,goods,CIPO_manual,-,300000171642600
+21,0,demitasse sets consisting of cups and saucers,public,goods,CIPO_manual,-,300000171642600
+21,0,corn cob holders,public,goods,CIPO_manual,-,300000171642600
+21,0,infant cups,public,goods,CIPO_manual,-,300000171642600
+21,0,towel holders,public,goods,CIPO_manual,-,300000171642600
+21,0,non-metal piggy banks,public,goods,CIPO_manual,-,300000171642600
+21,0,window dusters,public,goods,CIPO_manual,-,300000171642600
+21,0,wash basins,public,goods,CIPO_manual,-,300000171642600
+21,0,incense pots,public,goods,CIPO_manual,-,300000171642600
+21,0,serving trays not of precious metal,public,goods,CIPO_manual,-,300000171642600
+21,0,"serving utensils, namely, pie servers, cake turners, spatulas, scrapers and cake servers",public,goods,CIPO_manual,-,300000171642600
+21,0,vases not of precious metal,public,goods,CIPO_manual,-,300000171642600
+21,0,toilet cases,public,goods,CIPO_manual,-,300000171642600
+21,0,candlestick holders not of precious metal,public,goods,CIPO_manual,-,300000171642600
+21,0,"statues and figurines made of china, ceramic, earthenware, glass and porcelain",public,goods,CIPO_manual,-,300000171642600
+39,0,car parking,public,services,CIPO_manual,-,300000171642600
+39,0,courier services delivery of goods by mail order,public,services,CIPO_manual,-,300000171642600
+39,0,electricity distribution,public,services,CIPO_manual,-,300000171642600
+39,0,guarded transport of valuables,public,services,CIPO_manual,-,300000171642600
+39,0,truck rental,public,services,CIPO_manual,-,300000171642600
+9,0,"cash registers, and computers",public,goods,CIPO_manual,-,300000171642600
+9,0,"motion picture films featuring comedy, drama, action, adventure and animation, and motion picture films for broadcast on television featuring comedy, drama, action, adventure and animation",public,goods,CIPO_manual,-,300000171642600
+9,0,"pre-recorded vinyl records, audio tapes, audio video tapes, audio video cassettes, audio video discs, and digital versatile discs featuring music, comedy, drama, action, adventure, and animation",public,goods,CIPO_manual,-,300000171642600
+9,0,parts and for mobile telephones,public,goods,CIPO_manual,-,300000171642600
+9,0,mobile telephone covers,public,goods,CIPO_manual,-,300000171642600
+9,0,mobile telephone cases made of leather and imitation of leather,public,goods,CIPO_manual,-,300000171642600
+42,0,"web hosting, website development for others",public,services,CIPO_manual,-,300000181097100
+42,0,"installation, maintenance and repair of computer software for predictive analysis",public,services,CIPO_manual,-,300000181097100
+42,0,"installation, maintenance and repair of internet access software",public,services,CIPO_manual,-,300000181097100
+42,0,"software as a service (saas) services featuring software for communicating via computer communication networks, namely managing data across the imaging workflow in the field of healthcare",public,services,CIPO_manual,-,300000181097100
+36,0,"leasing services, namely building leasing, land leasing, leasing of office space, leasing of construction equipment, leasing of heavy equipment",public,services,CIPO_manual,-,300000181097100
+9,0,"scientific apparatus and instruments, namely computers, portable computers, tablet computers, tablet monitors, laptop computers, notebook computers, portable telephones, digital telephones, mobile phones, smart phones, internet phones, automatic answering machines, automatic telephone dialers, blueprinting machines, computer printers, image scanners, electronic book readers, computer mice, computer mouse pads, computer monitors, computer power supplies, computer screens, computer central processing units, computer speakers, computer stands, computer terminals, identification smart cards, keyboards for mobile phones, microphones for telecommunication apparatus, mobile phone chargers, audio speakers, mobile telephone batteries, telephone answering machines, earphones, telephone headsets, headphones, tape and videotape players, cd players, dvd players, dvd recorders",public,goods,CIPO_manual,-,300000181097100
+9,0,"apparatus for recording, transmission or reproduction of sound, images or data, namely blank magnetic discs, magnetic encoded card readers, magnetic tape recorders, pre-recorded audio cassettes, pre-recorded audiotapes, pre-recorded video cassettes, pre-recorded videotapes, blank compact discs, blank audio digital discs, blank hard discs, blank laser discs, blank magnetic discs, blank optical discs, blank digital versatile discs, blank digital videodiscs, high definition digital discs, blank audio digital discs, blank digital audiotapes, digital disc drives, pre-recorded cds, dvds, laser discs, and optical discs containing educational information in the fields of sciences, social sciences, law, languages, math and history, compact disc players, record players for digital compact disks, video disc players, digital versatile disc player, digital audiotape players",public,goods,CIPO_manual,-,300000181097100
+9,0,"data processing apparatus, namely computers",public,goods,CIPO_manual,-,300000181097100
+9,0,"user interfaces, namely augmented reality displays and interfaces for electronic devices, computer interface boards, computer interface cards",public,goods,CIPO_manual,-,300000181097100
+9,0,"unified user interface systems, namely computer hardware and software for enabling users to communicate with computer network interface devices",public,goods,CIPO_manual,-,300000181097100
+9,0,"software applications and management systems and tools, namely, computer software for enabling software applications and software tools to manage and control computer systems",public,goods,CIPO_manual,-,300000181097100
+9,0,"user authentication apparatus and instruments, namely, computer hardware and software for enabling the identification of the users of the devices",public,goods,CIPO_manual,-,300000181097100
+9,0,all-in-one configurations systems and software for configuring computer servers and peripheral network devices,public,goods,CIPO_manual,-,300000181097100
+9,0,"all-in-one technological apparatus and instruments, namely, computer hardware and software for providing multiple functions from a device such as photocopying, printing and scanning",public,goods,CIPO_manual,-,300000181097100
+9,0,"computer software featuring collaboration tools enabling technological software operations and applications, namely, email, calendaring, and video conferencing and, cloud applications",public,goods,CIPO_manual,-,300000181097100
+9,0,"computer software, namely computer software for use in cloud computing for the general storage of data and storage virtualization, augmented reality software for use in mobile devices for integrating electronic data with real world environments for the purpose of visualizing changes in the appearance of faces, body features, clothing and accessories",public,goods,CIPO_manual,-,300000181097100
+9,0,"computer software, namely software development tools for the creation of augmented reality applications",public,goods,CIPO_manual,-,300000181097100
+9,0,"storage and document share software and systems, namely electronic data storage and document share software and systems, namely, computer hardware and software for providing electronic data storage capabilities and document sharing",public,goods,CIPO_manual,-,300000181097100
+9,0,"technological administration interface, namely computer software for enabling software applications and software tools to manage and control computer systems",public,goods,CIPO_manual,-,300000181097100
+9,0,"downloadable applications for mobile phones and handheld computers to enable integrating electronic data with real world environments for the purpose of visualizing changes in the appearance of faces, body features, clothing and accessories",public,goods,CIPO_manual,-,300000181097100
+9,0,3d printers,public,goods,CIPO_manual,-,300000181097100
+9,0,"computer dashboards, namely visual analytic computer software used to create visual summaries and interactive digital dashboards which display and report summaries of text, images, audio, and videos that are present in social media networks, websites and global computer networks and associated analysis, extracts, annotations, corrections, converted files and translation",public,goods,CIPO_manual,-,300000181097100
+9,0,computer toolkits for controlling and managing the functionality of a computer controlled system,public,goods,CIPO_manual,-,300000181097100
+9,0,"audio/video cable connectors, cable connectors, connecting electrical cables, connections for electric lines, connectors for electronic circuits, electric wires and connection fittings therefor, plug-in connectors, electronic connectors for circuit boards",public,goods,CIPO_manual,-,300000181097100
+9,0,computer software for providing a single user access to global computer networks and the internet,public,goods,CIPO_manual,-,300000181097100
+9,0,"multifunctional products (mfp), namely multifunctional printer, photocopiers, multifunctional copying machines, namely equipment for use in photocopying, digital imaging and producing facsimiles",public,goods,CIPO_manual,-,300000181097100
+9,0,"deep search computer engines, namely computer search engines that enable users to search the content of computer networks that is not indexed by conventional search engines",public,goods,CIPO_manual,-,300000181097100
+9,0,"sensors, namely motion sensors",public,goods,CIPO_manual,-,300000181097100
+9,0,medical data storage equipment for use in healthcare namely hardware,public,goods,CIPO_manual,-,300000181097100
+9,0,"computer software for use with cognitive computing technologies and systems which enable machine learning, natural language processing, learning algorithms, semantic ontologies, pattern recognition and knowledge modelling technologies",public,goods,CIPO_manual,-,300000181097100
+9,0,"smart room booking (srb) software, namely computer software that enables users to find an empty meeting room",public,goods,CIPO_manual,-,300000181097100
+9,0,"flat panel displays for photocopiers, scanners, printers, computers",public,goods,CIPO_manual,-,300000181097100
+9,0,programmable electronic data acquisition and control apparatus for environmental monitoring,public,goods,CIPO_manual,-,300000181097100
+9,0,"monitoring instruments, namely cameras, metal detectors, motion detectors, radar detectors, smoke detectors",public,goods,CIPO_manual,-,300000181097100
+9,0,computer hardware and software for computer network monitoring,public,goods,CIPO_manual,-,300000181097100
+9,0,"screening devices, namely x-ray apparatus, optical and biometric scanners all for medical purposes, airport security cameras, airline security x-ray apparatus",public,goods,CIPO_manual,-,300000181097100
+9,0,"video equipment, namely video cameras, car video recorders, video monitors, video projectors",public,goods,CIPO_manual,-,300000181097100
+9,0,non-downloadable computer software for printer colour management,public,goods,CIPO_manual,-,300000181097100
+9,0,laser printers and laser scanners for testing fiber optic cable,public,goods,CIPO_manual,-,300000181097100
+9,0,"amplifiers, namely optical amplifiers, audio amplifiers, power amplifiers, signal amplifiers, stereo amplifiers, sound amplifiers",public,goods,CIPO_manual,-,300000181097100
+9,0,"computer network switches, ethernet switches",public,goods,CIPO_manual,-,300000181097100
+9,0,"cartridges for printers, plotters, copiers, facsimile machines, toner cartridges, firmware for controlling printer ink and data integrity in a printer, font cartridges, paper trays, print heads, data cables, cable connectors",public,goods,CIPO_manual,-,300000181097100
+9,0,internet servers disk backup hardware,public,goods,CIPO_manual,-,300000181097100
+9,0,"memory boards, digital camera memory card",public,goods,CIPO_manual,-,300000181097100
+9,0,"semiconductors, printed circuit boards, integrated circuits",public,goods,CIPO_manual,-,300000181097100
+9,0,"artificial intelligence software for use in the field of healthcare, namely, delivering detailed information on productivity, user performance and system health",public,goods,CIPO_manual,-,300000181097100
+9,0,project management software,public,goods,CIPO_manual,-,300000181097100
+9,0,software development tools for the creation of mobile internet applications and client interfaces,public,goods,CIPO_manual,-,300000181097100
+9,0,"network access server operating software, computer software for controlling and managing access server applications",public,goods,CIPO_manual,-,300000181097100
+9,0,"downloadable computer software for processing, organizing and viewing digital images",public,goods,CIPO_manual,-,300000181097100
+9,0,"computer software for creating, sending and receiving e-mail, computer software for image processing, computer software for processing digital images, computer software for organizing and viewing digital images and photographs, computer software that allows transmission of graphics to mobile telephones",public,goods,CIPO_manual,-,300000181097100
+9,0,downloadable computer software for database management,public,goods,CIPO_manual,-,300000181097100
+9,0,downloadable software for mobile phones and mobile devices for detecting a user's location and displaying relevant local information of general interest,public,goods,CIPO_manual,-,300000181097100
+9,0,downloadable software for mobile phones and mobile devices that allows the user to search the phone or device's content for information and applications,public,goods,CIPO_manual,-,300000181097100
+9,0,downloadable software for mobile phones and mobile devices that allows the user to search the internet for information of general interest,public,goods,CIPO_manual,-,300000181097100
+9,0,"battery chargers, namely battery chargers for use with telephones, usb chargers",public,goods,CIPO_manual,-,300000181097100
+9,0,"software for medical imaging, software for dosimetry purposes in the field of radiotherapy, virtual reality software for doctors to perform test surgery",public,goods,CIPO_manual,-,300000181097100
+9,0,"smart printers, smart terminals, smart watches, smart glasses, intelligent copiers",public,goods,CIPO_manual,-,300000181097100
+9,0,"cinematographic projectors, movie projectors, planetarium projectors, projectors for the entertainment industry, self-acting focusing projectors, slide projectors, video projectors",public,goods,CIPO_manual,-,300000181097100
+9,0,email notification alerts of changes in medical conditions that affect the health and well-being of a person namely the temperature rise and blood pressure,public,goods,CIPO_manual,-,300000181097100
+9,0,"global positioning system (gps) transmitters, global positioning system (gps) receivers, global positioning system (gps) transmitters",public,goods,CIPO_manual,-,300000181097100
+38,0,"telecommunication services, namely electronic mail services through wired and wireless access, paging services, wireless digital messaging services",public,services,CIPO_manual,-,300000181097100
+38,0,"facsimile transmission, transmission of voice and text messages by telephone",public,services,CIPO_manual,-,300000181097100
+38,0,"video streaming services, namely streaming of video within the fields of virtual reality, 3d imaging, photography and augmented reality via a global computer network",public,services,CIPO_manual,-,300000181097100
+38,0,"cloud based video streaming services featuring videos, namely virtual reality videos and augmented reality videos",public,services,CIPO_manual,-,300000181097100
+38,0,communication by means of cellular phones,public,services,CIPO_manual,-,300000181097100
+38,0,streaming of virtual reality images and videos via the internet and video on demand transmission services,public,services,CIPO_manual,-,300000181097100
+38,0,rental of memory cards for video cameras via a global computer network,public,services,CIPO_manual,-,300000181097100
+38,0,"computer-aided transmission of voice and text messages by mobile phones, smart phones",public,services,CIPO_manual,-,300000181097100
+38,0,rental of telephones and facsimile machines,public,services,CIPO_manual,-,300000181097100
+38,0,"streaming of audio and video via the internet featuring music, movies, news, and sports",public,services,CIPO_manual,-,300000181097100
+38,0,providing an online bulletin board in the field of computer technology and software development,public,services,CIPO_manual,-,300000181097100
+38,0,"internet telephony services, transmission of voice and text messages via wireless broadband networks",public,services,CIPO_manual,-,300000181097100
+38,0,secure e-mail services and wireless digital messaging services,public,services,CIPO_manual,-,300000181097100
+38,0,"providing virtual private network services, namely, private and secure electronic communications over a private or public computer network",public,services,CIPO_manual,-,300000181097100
+38,0,"providing online chat rooms, bulletin boards and forums for transmission of messages among users in the fields of computer technology and programming",public,services,CIPO_manual,-,300000181097100
+38,0,"streaming of audio and video via the internet featuring music, movies, news, and sports",public,services,CIPO_manual,-,300000181097100
+38,0,voice over internet protocol (voip) services,public,services,CIPO_manual,-,300000181097100
+38,0,"file sharing services, namely, providing a website featuring computer technology enabling users to upload and download electronic files",public,services,CIPO_manual,-,300000181097100
+38,0,"electronic mail, videoconferencing services, and transmission of electronic calendar between mobile phones, smart phones, portable computers",public,services,CIPO_manual,-,300000181097100
+9,0,"computer programming language software, namely: computer software for providing developers tools in creating program code for use in areas of system programming and software, computer software for expressing algorithms to describe actions that can be accomplished by computer programming language, computer software for structuring software based on separate modules and their organization in a hierarchical structure based on layered directed graphs to aid user comprehension of the software, computer software for providing various forms of specifying concurrency and parallelism, and various forms of exchanging data between concurrent tasks, namely, through shared variables and message passing, application programming and software, and database programming and software, computer software for providing direct access to hardware, for creating operating systems, control software for accessing and controlling hardware, computer software for expressing algorithms that support static and dynamic interfaces, for expressing algorithms that work with physical dimensions and units of measure, for defining and expressing computer and machine instructions, and for defining and expressing transactions and algorithms that work with databases",public,goods,CIPO_manual,-,300000181097400
+42,0,"consulting services in the field of development, customization, and implementation of computer programming language software",public,services,CIPO_manual,-,300000181097400
+10,0,"acupuncture instruments, aerosol dispensers for medical purposes, air cushions for medical purposes, air filters for medical ventilators, anesthetic delivery apparatus, apparatus for artificial respiration, apparatus for cardiac defibrillation, apparatus for taking blood samples, appliances for washing body cavities, arterial blood pressure measuring apparatus, artificial pacemakers, automatic vaccination apparatus, blood pressure measuring apparatus, blood transfusion apparatus, bone setting machines and instruments, catheters, clinical thermometers, colposcopes, defibrillators, dialyzers, drainage tubes for medical purposes, dental instruments, lasers for medical purposes, lasers for eye surgery, lasers for surgical use, castrating apparatus for veterinary purposes, cat scanners",public,goods,CIPO_manual,-,300000181097500
+10,0,"computer printers, 3-d printers for healthcare and biomedical use",public,goods,CIPO_manual,-,300000181097500
+10,0,"computer software for reading medical data, and for medical and veterinary imaging use",public,goods,CIPO_manual,-,300000181097500
+10,0,"computer software for detecting biomedical conditions, namely high blood pressure, asthma",public,goods,CIPO_manual,-,300000181097500
+10,0,"multifunctional printers for medical, dental and veterinary purposes",public,goods,CIPO_manual,-,300000181097500
+10,0,"security cameras, temperature sensors, movement sensors which can be operated by means of digital gadgets such as remote control and mobile phone devices by means of apps software",public,goods,CIPO_manual,-,300000181097500
+9,0,"scientific apparatus and instruments, namely computers, portable computers, tablet computers, tablet monitors, laptop computers, notebook computers, portable telephones, digital telephones, mobile phones, smart phones, internet phones, automatic answering machines, automatic telephone dialers, blueprinting machines, computer printers, image scanners, electronic book readers, computer mice, computer mouse pads, computer monitors, computer power supplies, computer screens, computer central processing units, computer speakers, computer stands, computer terminals, identification smart cards, keyboards for mobile phones, microphones for telecommunication apparatus, mobile phone chargers, audio speakers, mobile telephone batteries, telephone answering machines, earphones, telephone headsets, headphones, tape and videotape players, cd players, dvd players, dvd recorders",public,goods,CIPO_manual,-,300000181097500
+9,0,"apparatus for recording, transmission or reproduction of sound, images or data, namely blank magnetic discs, magnetic encoded card readers, magnetic tape recorders, pre-recorded audio cassettes, pre-recorded audiotapes, pre-recorded video cassettes, pre-recorded videotapes, blank compact discs, blank audio digital discs, blank hard discs, blank laser discs, blank magnetic discs, blank optical discs, blank digital versatile discs, blank digital videodiscs, high definition digital discs, blank audio digital discs, blank digital audiotapes, digital disc drives, pre-recorded cds, dvds, laser discs, and optical discs containing educational information in the fields of sciences, social sciences, law, languages, math and history, compact disc players, record players for digital compact disks, video disc players, digital versatile disc player, digital audiotape players",public,goods,CIPO_manual,-,300000181097500
+9,0,"data processing apparatus, namely computers",public,goods,CIPO_manual,-,300000181097500
+9,0,"user interfaces, namely augmented reality displays and interfaces for electronic devices, computer interface boards, computer interface cards",public,goods,CIPO_manual,-,300000181097500
+9,0,"unified user interface systems, namely computer hardware and software for enabling users to communicate with computer network interface devices",public,goods,CIPO_manual,-,300000181097500
+9,0,"software applications and management systems and tools, namely, computer software for enabling software applications and software tools to manage and control computer systems",public,goods,CIPO_manual,-,300000181097500
+9,0,"user authentication apparatus and instruments, namely, computer hardware and software for enabling the identification of the users of the devices",public,goods,CIPO_manual,-,300000181097500
+9,0,all-in-one configurations systems and software for configuring computer servers and peripheral network devices,public,goods,CIPO_manual,-,300000181097500
+9,0,"all-in-one technological apparatus and instruments, namely, computer hardware and software for providing multiple functions from a device such as photocopying, printing and scanning",public,goods,CIPO_manual,-,300000181097500
+9,0,"computer software featuring collaboration tools enabling technological software operations and applications, namely, email, calendaring, and video conferencing and, cloud applications",public,goods,CIPO_manual,-,300000181097500
+9,0,"computer software, namely computer software for use in cloud computing for the general storage of data and storage virtualization, augmented reality software for use in mobile devices for integrating electronic data with real world environments for the purpose of visualizing changes in the appearance of faces, body features, clothing and accessories",public,goods,CIPO_manual,-,300000181097500
+9,0,"computer software, namely software development tools for the creation of augmented reality applications",public,goods,CIPO_manual,-,300000181097500
+9,0,"storage and document share software and systems, namely electronic data storage and document share software and systems, namely, computer hardware and software for providing electronic data storage capabilities and document sharing",public,goods,CIPO_manual,-,300000181097500
+9,0,"technological administration interface, namely computer software for enabling software applications and software tools to manage and control computer systems",public,goods,CIPO_manual,-,300000181097500
+9,0,"downloadable applications for mobile phones and handheld computers to enable integrating electronic data with real world environments for the purpose of visualizing changes in the appearance of faces, body features, clothing and accessories",public,goods,CIPO_manual,-,300000181097500
+9,0,3d printers,public,goods,CIPO_manual,-,300000181097500
+9,0,"computer dashboards, namely visual analytic computer software used to create visual summaries and interactive digital dashboards which display and report summaries of text, images, audio, and videos that are present in social media networks, websites and global computer networks and associated analysis, extracts, annotations, corrections, converted files and translation",public,goods,CIPO_manual,-,300000181097500
+9,0,computer toolkits for controlling and managing the functionality of a computer controlled system,public,goods,CIPO_manual,-,300000181097500
+9,0,"audio/video cable connectors, cable connectors, connecting electrical cables, connections for electric lines, connectors for electronic circuits, electric wires and connection fittings therefor, plug-in connectors, electronic connectors for circuit boards",public,goods,CIPO_manual,-,300000181097500
+9,0,computer software for providing a single user access to global computer networks and the internet,public,goods,CIPO_manual,-,300000181097500
+9,0,"multifunctional products (mfp), namely multifunctional printer, photocopiers, multifunctional copying machines, namely equipment for use in photocopying, digital imaging and producing facsimiles",public,goods,CIPO_manual,-,300000181097500
+9,0,"deep search computer engines, namely computer search engines that enable users to search the content of computer networks that is not indexed by conventional search engines",public,goods,CIPO_manual,-,300000181097500
+9,0,medical data storage equipment for use in healthcare namely hardware,public,goods,CIPO_manual,-,300000181097500
+9,0,"computer software for use with cognitive computing technologies and systems which enable machine learning, natural language processing, learning algorithms, semantic ontologies, pattern recognition and knowledge modelling technologies",public,goods,CIPO_manual,-,300000181097500
+9,0,"smart room booking (srb) software, namely computer software that enables users to find an empty meeting room",public,goods,CIPO_manual,-,300000181097500
+9,0,"flat panel displays for photocopiers, scanners, printers, computers",public,goods,CIPO_manual,-,300000181097500
+9,0,programmable electronic data acquisition and control apparatus for environmental monitoring,public,goods,CIPO_manual,-,300000181097500
+9,0,"monitoring instruments, namely cameras, metal detectors, motion detectors, radar detectors, smoke detectors",public,goods,CIPO_manual,-,300000181097500
+9,0,computer hardware and software for computer network monitoring,public,goods,CIPO_manual,-,300000181097500
+9,0,"screening devices, namely x-ray apparatus, optical and biometric scanners all for medical purposes, airport security cameras, airline security x-ray apparatus",public,goods,CIPO_manual,-,300000181097500
+9,0,"video equipment, namely video cameras, car video recorders, video monitors, video projectors",public,goods,CIPO_manual,-,300000181097500
+9,0,non-downloadable computer software for printer colour management,public,goods,CIPO_manual,-,300000181097500
+9,0,laser printers and laser scanners for testing fiber optic cable,public,goods,CIPO_manual,-,300000181097500
+9,0,"amplifiers, namely optical amplifiers, audio amplifiers, power amplifiers, signal amplifiers, stereo amplifiers, sound amplifiers",public,goods,CIPO_manual,-,300000181097500
+9,0,"computer network switches, ethernet switches",public,goods,CIPO_manual,-,300000181097500
+9,0,"cartridges for printers, plotters, copiers, facsimile machines, toner cartridges, firmware for controlling printer ink and data integrity in a printer, font cartridges, paper trays, print heads, data cables, cable connectors",public,goods,CIPO_manual,-,300000181097500
+9,0,internet servers disk backup hardware,public,goods,CIPO_manual,-,300000181097500
+9,0,"memory boards, digital camera memory card",public,goods,CIPO_manual,-,300000181097500
+9,0,"semiconductors, printed circuit boards, integrated circuits",public,goods,CIPO_manual,-,300000181097500
+9,0,"artificial intelligence software for use in the field of healthcare, namely, delivering detailed information on productivity, user performance and system health",public,goods,CIPO_manual,-,300000181097500
+9,0,project management software,public,goods,CIPO_manual,-,300000181097500
+9,0,software development tools for the creation of mobile internet applications and client interfaces,public,goods,CIPO_manual,-,300000181097500
+9,0,"network access server operating software, computer software for controlling and managing access server applications",public,goods,CIPO_manual,-,300000181097500
+9,0,"downloadable computer software for processing, organizing and viewing digital images",public,goods,CIPO_manual,-,300000181097500
+9,0,"computer software for creating, sending and receiving e-mail, computer software for image processing, computer software for processing digital images, computer software for organizing and viewing digital images and photographs, computer software that allows transmission of graphics to mobile telephones",public,goods,CIPO_manual,-,300000181097500
+9,0,downloadable computer software for database management,public,goods,CIPO_manual,-,300000181097500
+9,0,downloadable software for mobile phones and mobile devices for detecting a user's location and displaying relevant local information of general interest,public,goods,CIPO_manual,-,300000181097500
+9,0,downloadable software for mobile phones and mobile devices that allows the user to search the phone or device's content for information and applications,public,goods,CIPO_manual,-,300000181097500
+9,0,downloadable software for mobile phones and mobile devices that allows the user to search the internet for information of general interest,public,goods,CIPO_manual,-,300000181097500
+9,0,"battery chargers, namely battery chargers for use with telephones, usb chargers",public,goods,CIPO_manual,-,300000181097500
+9,0,"software for medical imaging, software for dosimetry purposes in the field of radiotherapy, virtual reality software for doctors to perform test surgery",public,goods,CIPO_manual,-,300000181097500
+9,0,"smart printers, smart terminals, smart watches, smart glasses, intelligent copiers",public,goods,CIPO_manual,-,300000181097500
+9,0,"cinematographic projectors, movie projectors, planetarium projectors, projectors for the entertainment industry, self-acting focusing projectors, slide projectors, video projectors",public,goods,CIPO_manual,-,300000181097500
+9,0,email notification alerts of changes in medical conditions that affect the health and well-being of a person namely the temperature rise and blood pressure,public,goods,CIPO_manual,-,300000181097500
+9,0,"global positioning system (gps) transmitters, global positioning system (gps) receivers, global positioning system (gps) transmitters",public,goods,CIPO_manual,-,300000181097500
+42,0,"scientific research in the field of computer technology and software development, technological consulting services in the field of computer technology and software development",public,services,CIPO_manual,-,300000181097500
+42,0,"environmental monitoring of water quality, presence of trace metals, toxicity and environmental contaminants",public,services,CIPO_manual,-,300000181097500
+42,0,"computer hardware and software design, computer network design for others, computer system design, computer website design, design and development of computer software and hardware for use with augmented reality applications",public,services,CIPO_manual,-,300000181097500
+42,0,"cloud computing photo sharing services, cloud computing provider services for general storage of data, cloud computing providing software for database management, cloud computing video hosting web sites, cloud seeding, development of computer software for computer network big data processing",public,services,CIPO_manual,-,300000181097500
+42,0,consulting in the field of cloud infrastructure,public,services,CIPO_manual,-,300000181097500
+42,0,"design of computers, design of computer databases, computer hardware and software design, design and development of computer game software, virtual reality software, augmented reality software, design and development of computer printers, dashboard, scanners, photocopiers",public,services,CIPO_manual,-,300000181097500
+42,0,"rental of computer hardware and computer peripherals, namely computer mice, headsets, keyboards",public,services,CIPO_manual,-,300000181097500
+42,0,"consultancy in the field of software design, consultancy in the design and development of computer hardware, consultancy in the field of design and development of computer software and hardware for use with augmented reality applications",public,services,CIPO_manual,-,300000181097500
+42,0,"consulting in the field of information technology, namely design, development, testing of downloadable mobile applications",public,services,CIPO_manual,-,300000181097500
+42,0,consulting in the field of enterprise mobility management (emm),public,services,CIPO_manual,-,300000181097500
+42,0,"providing non-downloadable software for sharing digital media, namely digital images, computer graphics, photographs, catalogs, brochures, documents, calendars, presentations, music videos, movies, films, television shows, electronic publications, news and sports, via global computer networks and the internet",public,services,CIPO_manual,-,300000181097500
+42,0,providing non-downloadable software for electronic messaging,public,services,CIPO_manual,-,300000181097500
+42,0,"providing non-downloadable software for electronically exchanging and processing images, voice, music, music videos, movies, films, television shows, news, sports, video games, computer games, electronic publications, accessible via global computer networks and the internet",public,services,CIPO_manual,-,300000181097500
+42,0,"providing on-line non-downloadable computer software for tracking documents over computer networks, intranets and the internet",public,services,CIPO_manual,-,300000181097500
+42,0,providing on-line non-downloadable software for creating and maintaining websites and blogs,public,services,CIPO_manual,-,300000181097500
+42,0,providing on-line non-downloadable software for document collaboration and revision tracking,public,services,CIPO_manual,-,300000181097500
+42,0,providing on-line non-downloadable software for granting and controlling access to documents,public,services,CIPO_manual,-,300000181097500
+42,0,providing on-line non-downloadable software for managing individual and group calendars and schedules,public,services,CIPO_manual,-,300000181097500
+42,0,providing on-line non-downloadable software featuring online storage of documents and databases,public,services,CIPO_manual,-,300000181097500
+42,0,"mapping services, namely, providing a website and website links to geographic information, map images, and trip routing",public,services,CIPO_manual,-,300000181097500
+42,0,providing online non-downloadable software for optimizing website navigation,public,services,CIPO_manual,-,300000181097500
+42,0,"providing online non-downloadable software for managing, collecting, monitoring and analysing web, blog and other online site traffic, user preferences and links in real time",public,services,CIPO_manual,-,300000181097500
+42,0,"technical support services, namely troubleshooting of problems of software for managing, collecting, monitoring and analysing web, blog and other online site traffic, user preferences and links",public,services,CIPO_manual,-,300000181097500
+42,0,"design and development services for others of software for managing, collecting, monitoring and analysing web, blog and other online site traffic, user preferences and links",public,services,CIPO_manual,-,300000181097500
+42,0,"electronic storage of digital media, namely documents, photographs, images, music, music videos, video games, computer games, movies, films, television shows, news, sports, electronic publications",public,services,CIPO_manual,-,300000181097500
+42,0,"technical support in the form of monitoring global computer network systems, technical support services in the form of troubleshooting of computer hardware and software problems",public,services,CIPO_manual,-,300000181097500
+42,0,"computer programming consultancy, computer hardware and computer hardware consulting, computer consulting services in the field of virtual reality and augmented reality, consulting services for capturing, processing and editing virtual reality videos and augmented reality videos, consulting services for creating 3d models from images and videos",public,services,CIPO_manual,-,300000181097500
+42,0,"web hosting, website development for others",public,services,CIPO_manual,-,300000181097500
+42,0,"installation, maintenance and repair of computer software for predictive analysis",public,services,CIPO_manual,-,300000181097500
+42,0,"installation, maintenance and repair of internet access software",public,services,CIPO_manual,-,300000181097500
+42,0,"software as a service (saas) services featuring software for communicating via computer communication networks, namely managing data across the imaging workflow in the field of healthcare",public,services,CIPO_manual,-,300000181097500
+36,0,"leasing services, namely building leasing, land leasing, leasing of office space, leasing of construction equipment, leasing of heavy equipment",public,services,CIPO_manual,-,300000181097500
+38,0,"telecommunication services, namely electronic mail services through wired and wireless access, paging services, wireless digital messaging services",public,services,CIPO_manual,-,300000181097500
+38,0,"facsimile transmission, transmission of voice and text messages by telephone",public,services,CIPO_manual,-,300000181097500
+38,0,"video streaming services, namely streaming of video within the fields of virtual reality, 3d imaging, photography and augmented reality via a global computer network",public,services,CIPO_manual,-,300000181097500
+38,0,"cloud based video streaming services featuring videos, namely virtual reality videos and augmented reality videos",public,services,CIPO_manual,-,300000181097500
+38,0,communication by means of cellular phones,public,services,CIPO_manual,-,300000181097500
+38,0,streaming of virtual reality images and videos via the internet and video on demand transmission services,public,services,CIPO_manual,-,300000181097500
+38,0,rental of memory cards for video cameras via a global computer network,public,services,CIPO_manual,-,300000181097500
+38,0,"computer-aided transmission of voice and text messages by mobile phones, smart phones",public,services,CIPO_manual,-,300000181097500
+38,0,rental of telephones and facsimile machines,public,services,CIPO_manual,-,300000181097500
+38,0,"streaming of audio and video via the internet featuring music, movies, news, and sports",public,services,CIPO_manual,-,300000181097500
+38,0,providing an online bulletin board in the field of computer technology and software development,public,services,CIPO_manual,-,300000181097500
+38,0,"internet telephony services, transmission of voice and text messages via wireless broadband networks",public,services,CIPO_manual,-,300000181097500
+38,0,secure e-mail services and wireless digital messaging services,public,services,CIPO_manual,-,300000181097500
+38,0,"providing virtual private network services, namely, private and secure electronic communications over a private or public computer network",public,services,CIPO_manual,-,300000181097500
+38,0,"providing online chat rooms, bulletin boards and forums for transmission of messages among users in the fields of computer technology and programming",public,services,CIPO_manual,-,300000181097500
+38,0,"streaming of audio and video via the internet featuring music, movies, news, and sports",public,services,CIPO_manual,-,300000181097500
+38,0,voice over internet protocol (voip) services,public,services,CIPO_manual,-,300000181097500
+38,0,"file sharing services, namely, providing a website featuring computer technology enabling users to upload and download electronic files",public,services,CIPO_manual,-,300000181097500
+38,0,"electronic mail, videoconferencing services, and transmission of electronic calendar between mobile phones, smart phones, portable computers",public,services,CIPO_manual,-,300000181097500
+35,0,providing security services for computer networks,public,goods,CIPO_manual,-,300000181097500
+35,0,"retail services in-store and on-line, namely retail computer equipment store services, retail sale of computer software, retail sale of photographic equipment, online sales of photographic equipment",public,goods,CIPO_manual,-,300000181097500
+35,0,"managing the flow of information between business functions inside an enterprise and with outside stakeholders, namely, enterprise resource planning (erp) and customer relationship management (crm)",public,goods,CIPO_manual,-,300000181097500
+35,0,"business organization and management consulting, advisory services for business management",public,goods,CIPO_manual,-,300000181097500
+35,0,"business organisation, business operations, planning, administration and office functions, namely data processing, mail sorting, handling and receiving, document filing services, transcription services, electronic mail services for others, appointment and reminder scheduling services",public,goods,CIPO_manual,-,300000181097500
+35,0,"promotional services, namely developing promotional campaigns for business for others, promoting the sale of goods and services through promotional contests and the distribution of related printed material, providing promotional coupon programs pertaining to a line of food products",public,goods,CIPO_manual,-,300000181097500
+35,0,"advice and information concerning online and retail sale, leasing, franchising and licensing of technological apparatus, namely, computer hardware and software for providing multiple functions from a device such as photocopying, printing and scanning, for business, medical, and household purposes",public,goods,CIPO_manual,-,300000181097500
+35,0,conducting trade show exhibitions in the field of computer technology,public,goods,CIPO_manual,-,300000181097500
+35,0,customer relationship management services,public,goods,CIPO_manual,-,300000181097500
+35,0,providing an on-line commercial information directory in the field of computer technology on the internet,public,goods,CIPO_manual,-,300000181097500
+35,0,"providing a website featuring a marketplace for online sales of computer and providing a website featuring a marketplace for online sales of computers, printers, scanners and video surveillance cameras",public,goods,CIPO_manual,-,300000181097500
+35,0,"administrative processing of purchase orders, computerized online ordering featuring computers, computer hardware, mobile phones and smart phones providing electronic verification of online orders of digital content",public,goods,CIPO_manual,-,300000181097500
+41,0,educational services in the field of computer technology and software development,public,services,CIPO_manual,-,300000181097500
+41,0,"online electronic publication of books, magazines, brochures",public,services,CIPO_manual,-,300000181097500
+41,0,training in the use and operation of computer hardware,public,services,CIPO_manual,-,300000181097500
+41,0,"providing on-line non-downloadable books, magazines, brochures",public,services,CIPO_manual,-,300000181097500
+41,0,"online journals, namely, blogs featuring information in the fields of computer technology and programming, and e-commerce",public,services,CIPO_manual,-,300000181097500
+37,0,"installation, maintenance and repair of computers and computer hardware, servers, printers, 3-d printers, biomedical sensors, office machines",public,services,CIPO_manual,-,300000181097500
+37,0,"maintenance and repair of printers, computers, telecommunication devices, namely cameras and video surveillance equipment",public,services,CIPO_manual,-,300000181097500
+6,0,"metal goods, namely, bar solder, solder paste, solder preforms, solder wire",public,goods,CIPO_manual,-,300000181098300
+16,0,metal stencils used in printing processes with solder paste for the production of printed circuit boards,public,goods,CIPO_manual,-,300000181098300
+1,0,"chemicals, namely, soldering flux",public,goods,CIPO_manual,-,300000181098300
+1,0,industrial chemicals used for cleaning circuit boards and surface mount devices,public,goods,CIPO_manual,-,300000181098300
+1,0,industrial adhesives used for surface mounted electronic circuits,public,goods,CIPO_manual,-,300000181098300
+1,0,"unprocessed polymers, namely, epoxies, silicones, acrylics, phenolics, polyesters, polysufones, polycarbonates, polystyrenes, polyurethanes chemicals, namely, soldering flux",public,goods,CIPO_manual,-,300000181098300
+3,0,"cleaning chemicals used in cleaning of flux residues, processing of light emitting diode and organic light emitting diode and power driver and control systems circuits",public,goods,CIPO_manual,-,300000181098300
+3,0,cosmetic moisturisers,public,goods,CIPO_manual,-,300000181098500
+24,0,"loose covers for patio furniture, chairs, tables",public,goods,CIPO_manual,-,300000181098700
+36,0,issuance of credit cards through a licensee,public,services,CIPO_manual,-,300000181100300
+35,0,hotel management,public,goods,CIPO_manual,-,300000181101300
+28,0,action figures and accessories therefor,public,goods,CIPO_manual,-,300000181101400
+28,0,bean bags,public,goods,CIPO_manual,-,300000181101400
+28,0,bubble making wands and solution sets,public,goods,CIPO_manual,-,300000181101400
+28,0,children's play cosmetics,public,goods,CIPO_manual,-,300000181101400
+28,0,christmas stockings,public,goods,CIPO_manual,-,300000181101400
+28,0,"disc toss toys, namely flying discs",public,goods,CIPO_manual,-,300000181101400
+28,0,"equipment sold as a unit for playing card games, namely playing cards, protective holders for playing cards, scoring sheets, game packaging containers of cardboard, paper, and metal, and information sheets containing the instructions, rules, and variations of the card games",public,goods,CIPO_manual,-,300000181101400
+28,0,"hand held unit for playing electronic games other than those adapted for use with an external display screen or monitor, namely electronic hand-held games",public,goods,CIPO_manual,-,300000181101400
+28,0,"manipulative games, namely arcade games, interactive video games, jigsaw puzzles, and manipulative puzzles",public,goods,CIPO_manual,-,300000181101400
+28,0,interactive talking toys,public,goods,CIPO_manual,-,300000181101400
+28,0,"toy model hobby kits, namely, scale model kits",public,goods,CIPO_manual,-,300000181101400
+28,0,wind-up toys and return tops,public,goods,CIPO_manual,-,300000181101400
+9,0,"pre-recorded downloadable audio recordings, namely podcasts and audio recordings of dramatic performances and live comedic performances, featuring ongoing episodic educational and entertainment programs for children and teens",public,goods,CIPO_manual,-,300000181101400
+9,0,pre-recorded downloadable video recordings featuring ongoing episodic educational and entertainment programs for children and teens,public,goods,CIPO_manual,-,300000181101400
+9,0,"pre-recorded video recordings in pre-recorded optical disc, dvd and cd format featuring ongoing episodic educational and entertainment programs for children and teens",public,goods,CIPO_manual,-,300000181101400
+9,0,pre-recorded cd-roms containing computer games for children,public,goods,CIPO_manual,-,300000181101400
+9,0,"cellular telephone accessories, namely, headsets for cellular telephones and earphones for cellular telephones",public,goods,CIPO_manual,-,300000181101400
+9,0,cellular telephone cases,public,goods,CIPO_manual,-,300000181101400
+9,0,face plates for cellular telephones,public,goods,CIPO_manual,-,300000181101400
+9,0,"computer game cartridges, and compact discs containing computer games",public,goods,CIPO_manual,-,300000181101400
+9,0,dvd players,public,goods,CIPO_manual,-,300000181101400
+9,0,dvd recorders,public,goods,CIPO_manual,-,300000181101400
+9,0,"motion picture films featuring animated entertainment, action-adventure, live-action, comedy, musicals, drama and documentaries",public,goods,CIPO_manual,-,300000181101400
+9,0,compact discs containing video games,public,goods,CIPO_manual,-,300000181101400
+9,0,"and consumer electronics and accessories therefor, namely, audio speakers",public,goods,CIPO_manual,-,300000181101400
+25,0,halloween costumes,public,goods,CIPO_manual,-,300000181101400
+25,0,robes,public,goods,CIPO_manual,-,300000181101400
+25,0,and wrist bands,public,goods,CIPO_manual,-,300000181101400
+16,0,"series of books on a variety of topics related to audiovisual entertainment, namely, a series of fiction and non-fiction books on a variety of topics in the nature of children's entertainment",public,goods,CIPO_manual,-,300000181101400
+16,0,fiction and non-fiction books on a variety of topics in the nature of children's entertainment,public,goods,CIPO_manual,-,300000181101400
+16,0,"books containing printed stories in illustrated form and comic book stories, storyboards, and artwork",public,goods,CIPO_manual,-,300000181101400
+16,0,"printed periodicals in the field of comic book stories, storyboards, and artwork",public,goods,CIPO_manual,-,300000181101400
+16,0,magazines featuring children's entertainment,public,goods,CIPO_manual,-,300000181101400
+16,0,newspapers and photographs of general interest,public,goods,CIPO_manual,-,300000181101400
+16,0,"journals, printed periodicals, and newsletters in the field of children's stories",public,goods,CIPO_manual,-,300000181101400
+16,0,catalogues in the field of children's entertainment,public,goods,CIPO_manual,-,300000181101400
+16,0,arts and craft paint kits,public,goods,CIPO_manual,-,300000181101400
+16,0,"books, magazines, and printed periodicals, featuring stories, games and activities for children and teens",public,goods,CIPO_manual,-,300000181101400
+16,0,christmas cards,public,goods,CIPO_manual,-,300000181101400
+16,0,paper gift cards,public,goods,CIPO_manual,-,300000181101400
+16,0,pen holders and pencil holders,public,goods,CIPO_manual,-,300000181101400
+16,0,printed periodicals in the field of children's entertainment,public,goods,CIPO_manual,-,300000181101400
+16,0,printed achievement certificates,public,goods,CIPO_manual,-,300000181101400
+16,0,and writing implements,public,goods,CIPO_manual,-,300000181101400
+41,0,entertainment services in the nature of a television animated children's series,public,services,CIPO_manual,-,300000181101400
+41,0,"entertainment services, namely, an ongoing episodic children's animated series provided via television, cable, the internet and wireless communications networks, namely cellular networks, wifi networks, and satellite networks",public,services,CIPO_manual,-,300000181101400
+9,0,software application for learning how to write in the english language,public,goods,CIPO_manual,-,300000181101500
+41,0,teaching programs with an app for translations and pronunciations,public,services,CIPO_manual,-,300000181101500
+16,0,teaching manuals for improved phonics learning with dual language books and word lists,public,goods,CIPO_manual,-,300000181101500
+39,0,arranging and conducting wine tours,public,services,CIPO_manual,-,300000181101700
+21,0,"wineglasses, wine decanters, wine buckets, wine aerators, and corkscrews",public,goods,CIPO_manual,-,300000181101700
+41,0,"seminars and workshops in the fields of wine, wine selection, and wine tasting",public,services,CIPO_manual,-,300000181101700
+16,0,wine charts,public,goods,CIPO_manual,-,300000181101700
+36,0,"issuing tokens of value as part of a customer membership scheme for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,services,CIPO_manual,-,300000181102900
+36,0,"issuing tokens of value as a reward for customer loyalty for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,services,CIPO_manual,-,300000181102900
+36,0,"issuing of tokens of value in relation to customer loyalty schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,services,CIPO_manual,-,300000181102900
+35,0,"loyalty card program for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"loyalty scheme for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"loyalty, incentive and bonus programs for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"administration of loyalty and incentive schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"administration of consumer loyalty programs for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"organization and management of customer loyalty programs for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"management of customer loyalty, incentive or promotional schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"organization, operation and supervision of customer loyalty schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"administration of loyalty programs involving discounts or incentives for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"organization and management of business incentive and loyalty schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"organization, operation and supervision of loyalty and incentive schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"organization, operation and supervision of loyalty schemes and incentive schemes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+35,0,"customer loyalty services for commercial, promotional and/or advertising purposes for airport and travel services, namely, airport lounge services, airport transit hotel services, airport meet and greet services and airport dining",public,goods,CIPO_manual,-,300000181102900
+42,0,outsourcing of web development services,public,services,CIPO_manual,-,300000181103800
+9,0,electronic newsletters,public,goods,CIPO_manual,-,300000181103800
+42,0,"configuration, updating, installation and maintenance of computer software for use in remote monitoring, controlling, optimizing, tracking problems in and generating production reports for monitoring and reporting temperature over time and for monitoring and reporting activity and performance of industrial systems used in food preparation and storage",public,services,CIPO_manual,-,300000181103900
+42,0,"design and development of software and hardware for monitoring equipment, providing alert signals, and taking corrective actions in the restaurant and food service industry, health and managed care industry, and institutions",public,services,CIPO_manual,-,300000181103900
+42,0,"design and development of software and hardware for compliance of day to day operations, incoming products, incident reporting, outgoing shipments, time usage studies of work completion, and vendor management in the restaurant and food service industry, health and managed care industry, and institutions",public,services,CIPO_manual,-,300000181103900
+42,0,"computer services, namely, software as a service (saas) used for analyzing, collecting, and monitoring and reporting temperature over time time/temperature monitoring, monitoring and reporting activity and performance of industrial systems used in food preparation and storage and for industrial automation contractors",public,services,CIPO_manual,-,300000181103900
+42,0,"customizing computer software for use in remote monitoring, controlling, optimizing, tracking problems in and generating production reports for monitoring and reporting temperature over time and for monitoring and reporting activity and performance of industrial systems used in food preparation and storage",public,services,CIPO_manual,-,300000181103900
+42,0,"data automation and collection service using proprietary software to evaluate, analyze and collect service data namely location, temperature, date and time, food preparation and storage procedures, checklists and guidelines",public,services,CIPO_manual,-,300000181103900
+42,0,providing temporary use of a web-based software application for use in database management and electronic storage of data,public,services,CIPO_manual,-,300000181103900
+42,0,"remote diagnostic services in the field of monitoring and reporting temperature over time, monitoring and reporting activity and performance of industrial systems used in food preparation and storage and for industrial automation contractors",public,services,CIPO_manual,-,300000181103900
+42,0,"software as a service (saas) featuring software for food handling, food preparation and food storage process management, food product development, data management, and food handling safety regulatory and compliance management",public,services,CIPO_manual,-,300000181103900
+42,0,software as a service (saas) services featuring software for successful design and production of safe and compliant food products following food safety regulations,public,services,CIPO_manual,-,300000181103900
+42,0,rental of space in a computer co-location facility for containerized data centers of others,public,services,CIPO_manual,-,300000181103900
+42,0,remote online backup of computer data,public,services,CIPO_manual,-,300000181103900
+42,0,electronic storage services for archiving electronic data,public,services,CIPO_manual,-,300000181103900
+42,0,electronic data storage,public,services,CIPO_manual,-,300000181103900
+42,0,data warehousing,public,services,CIPO_manual,-,300000181103900
+42,0,"computer services, namely, providing an internet web site featuring technology for use in environmental monitoring, control, and automation systems used in the field of food handling, food preparation and food storage",public,services,CIPO_manual,-,300000181103900
+42,0,"computer services, namely, providing an internet web site featuring technology that allows users to remotely interact with environmental monitoring, control, and automation systems used in the field of food handling, food preparation and food storage",public,services,CIPO_manual,-,300000181103900
+42,0,"platform as a service (paas) featuring computer software platforms for use with environmental monitoring, control, and automation systems used in the field of food handling, food preparation and food storage",public,services,CIPO_manual,-,300000181103900
+42,0,"software as a service (saas) services featuring computer software for use with environmental monitoring, control, and automation systems used in the field of food handling, food preparation and food storage",public,services,CIPO_manual,-,300000181103900
+9,0,"automation software, namely, software to remotely monitor, control, optimize, track problems in and generate production reports for monitoring and reporting temperature over time monitoring and reporting activity and performance of industrial systems used in food preparation and storage and for industrial automation contractors",public,goods,CIPO_manual,-,300000181103900
+9,0,"computer application software for mobile phones and/or handheld computers, namely, software for use in database management and electronic storage of data",public,goods,CIPO_manual,-,300000181103900
+9,0,"computer software for the collection, editing, organizing, modifying, book marking, transmission, storage and sharing of data and information, namely location, temperature, date and time, food preparation and storage procedures, checklists and guidelines: computer software for wireless content delivery, namely for issuing notifications and reports relating to temperature monitoring and activity and performance of industrial systems used in food preparation and storage: computer software for collecting, analyzing, and displaying real-time temperature monitoring reports and cooler and heating monitoring reports, hazard analysis critical control points (haccp) compliance reports, warming and cooling logs, food product recall monitoring reports, real time reporting of checklist completion",public,goods,CIPO_manual,-,300000181103900
+9,0,"electronic devices and computer software that allow users to remotely interact with environmental monitoring, control, and automation systems, namely wireless sensors and data loggers for temperature monitoring to automatically measure and log time, temperature, humidity and other environment condition data",public,goods,CIPO_manual,-,300000181103900
+9,0,"electronic devices, namely tablet computers, hand-held computers and mobile phones and computer software that allow the sharing and transmission of data and information namely location, temperature, date and time, food preparation and storage procedures, checklists and guidelines between devices for the purposes of facilitating environmental monitoring, control, and automation",public,goods,CIPO_manual,-,300000181103900
+3,0,"hair cleaning preparations, hair conditioners, hair masks, hair shampoo",public,goods,CIPO_manual,-,300000181104000
+41,0,arranging and concluding of financial conferences,public,services,CIPO_manual,-,300000181104100
+41,0,development of periodical publications,public,services,CIPO_manual,-,300000181104100
+41,0,providing online non-downloadable general feature magazines,public,services,CIPO_manual,-,300000181104100
+35,0,economic forecasting analysis for business purposes,public,goods,CIPO_manual,-,300000181104100
+35,0,organisation of trade fairs for commercial or advertising purposes in relation to business management services,public,goods,CIPO_manual,-,300000181104100
+35,0,business management and enterprise organization consultancy: business management assistance for industrial and commercial companies,public,goods,CIPO_manual,-,300000181104100
+35,0,business management advisory services,public,goods,CIPO_manual,-,300000181104100
+35,0,consultancy relating to business efficiency,public,goods,CIPO_manual,-,300000181104100
+41,0,"education and training services, namely the development of managerial skills in the field of business organizational management, excluding services relating to the use of computers and computer software",public,services,CIPO_manual,-,300000181104300
+41,0,"educational services, namely, providing online instruction in the fields of business leadership development, strategic decision-making, critical problem solving, value creation and value management, each via an online website",public,services,CIPO_manual,-,300000181104300
+9,0,"portable media players, namely mp3 and mp4 players",public,goods,CIPO_manual,-,300000181104500
+9,0,"global positioning system (gps) consisting of computers, computer software, transmitters, receivers and network interface devices",public,goods,CIPO_manual,-,300000181104500
+9,0,chargers for electric general purpose batteries,public,goods,CIPO_manual,-,300000181104500
+9,0,"wearable activity trackers for displaying, measuring, and uploading to the internet information, namely, distance, steps taken, calories burned, activity level, hours slept, quality of sleep",public,goods,CIPO_manual,-,300000181104500
+9,0,traffic lights and illuminated advertising signs,public,goods,CIPO_manual,-,300000181104500
+38,0,providing a website featuring an online community for registered users to participate in discussions and form virtual communities to engage in social networking services in the field of politics,public,services,CIPO_manual,-,300000181105800
+38,0,providing an internet news portal featuring links to news agency service,public,services,CIPO_manual,-,300000181105800
+38,0,providing an online bulletin board in the field of politics,public,services,CIPO_manual,-,300000181105800
+38,0,video streaming in the field of politics,public,services,CIPO_manual,-,300000181105800
+16,0,"bumper stickers, pens",public,goods,CIPO_manual,-,300000181105800
+18,0,sling bags namely shoulder bags,public,goods,CIPO_manual,-,300000181105800
+25,0,"women's clothing, namely, knitted athletic tops, short and long bottoms, capris, leggings, jackets, tank top, printed or solid long and short t-shirts",public,goods,CIPO_manual,-,300000181105900
+9,0,"computer game software, namely computer games",public,goods,CIPO_manual,-,300000181107500
+9,0,"computer software applications for mobile apparatus, namely applications for mobile phones and computer tablets in the form of downloadable electronic games",public,goods,CIPO_manual,-,300000181107500
+9,0,"computer software applications, downloadable, namely downloadable applications for mobile phones and computer tablets to download video games via the internet",public,goods,CIPO_manual,-,300000181107500
+9,0,"downloadable image files, namely downloadable graphics for mobile phones",public,goods,CIPO_manual,-,300000181107500
+9,0,"downloadable electronic publications, namely downloadable multimedia news podcasts",public,goods,CIPO_manual,-,300000181107500
+9,0,memory cards and cartridges for video game machines,public,goods,CIPO_manual,-,300000181107500
+41,0,providing on-line electronic games,public,services,CIPO_manual,-,300000181107500
+41,0,"providing online electronic applications, namely providing on-line computer games",public,services,CIPO_manual,-,300000181107500
+41,0,providing on-line electronic publications in the field of video games,public,services,CIPO_manual,-,300000181107500
+41,0,"game services provided on-line from a computer network, namely providing a web site featuring on-line computer games",public,services,CIPO_manual,-,300000181107500
+41,0,rental of game consoles,public,services,CIPO_manual,-,300000181107500
+35,0,providing on-line employment information in the field of job listings and career information in the sports industry for employers and job seekers,public,goods,CIPO_manual,-,300000181107700
+35,0,organizing business networking events in the field of the sports industry,public,goods,CIPO_manual,-,300000181107700
+35,0,"employment hiring, recruiting, placement, staffing and career networking services, namely, organizing networking events for professionals in the sports industry",public,goods,CIPO_manual,-,300000181107700
+35,0,on-line social networking services in the field of professional sports industry employment,public,goods,CIPO_manual,-,300000181107700
+9,0,"downloadable custom mobile applications that provide tools namely, click to call, notifications, alerts, location tracking, and information feeds offering aggregated institution-specific safety resources for fostering community safety on college and university campuses",public,goods,CIPO_manual,-,300000181107800
+42,0,"online platforms namely an online dashboard that provides tools, namely, notifications, alerts, end-user location tracking, and the content management of real-time information and feeds for fostering community safety on college and university campuses",public,services,CIPO_manual,-,300000181107800
+18,0,"promotional and brand merchandise, namely backpacks, tote bags, handbags, knapsacks, beach bags, luggage, purses and wallets",public,goods,CIPO_manual,-,300000181108500
+16,0,"promotional and brand merchandise, namely pens, pencils, notebooks, calendars and books containing puzzles and games",public,goods,CIPO_manual,-,300000181108500
+28,0,"promotional and brand merchandise, namely puzzles and board games",public,goods,CIPO_manual,-,300000181108500
+14,0,"promotional and brand merchandise, namely novelty pins and bracelets",public,goods,CIPO_manual,-,300000181108500
+35,0,"promoting, encouraging and supporting the education and development of mental health and well-being among teenagers and children",public,goods,CIPO_manual,-,300000181108500
+21,0,"promotional and brand merchandise, namely mugs and beverage glassware",public,goods,CIPO_manual,-,300000181108500
+44,0,"providing counselling, resource information and referral services to teenagers and children in the nature of mental health and well-being",public,services,CIPO_manual,-,300000181108500
+44,0,"operation of a website providing counselling, resource information and referral services to teenagers and children in the nature of mental health and well-being",public,services,CIPO_manual,-,300000181108500
+9,0,"promotional and brand merchandise, namely mobile phone cases and usb sticks",public,goods,CIPO_manual,-,300000181108500
+9,0,"computer software, namely desktop, online and mobile phone application software used for providing counselling, information and referral services to teenagers and children",public,goods,CIPO_manual,-,300000181108500
+43,0,catering service (food and drinks),public,services,CIPO_manual,-,300000181108600
+43,0,bar service,public,services,CIPO_manual,-,300000181108600
+43,0,event catering consultation,public,services,CIPO_manual,-,300000181108600
+41,0,menu advisors,public,services,CIPO_manual,-,300000181108600

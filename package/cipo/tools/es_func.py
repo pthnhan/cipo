@@ -17,13 +17,13 @@ def _put(data_folder: str = None, c: int = None, es_obj=None):
         es_obj.index(index=f"class{c}", id=i+1, body=doc)
 
 def _get(es_obj=None, _index:str=None, _id:int=None,):
-    res = es.get(index=_index, id=_id, ignore=404)
+    res = es_obj.get(index=_index, id=_id, ignore=404)
     print(res)
 
 
 def _search_keyword(es_obj=None, keyword:str=None):
 
-    list_indexes = [key for key in es.indices.get_alias("*") if "class" in key]
+    list_indexes = [key for key in es_obj.indices.get_alias("*") if "class" in key]
     list_indexes.sort()
     body = {
         "query": { "match": {
@@ -47,5 +47,11 @@ if __name__ == "__main__":
     #     _put_index(data_folder="data",
     #     c = c,
     #     es_obj=es)
-    _search_keyword(es_obj=es, keyword="financial")
+    # _search_keyword(es_obj=es, keyword="financial")
     # print(es.indices.get_alias("*"))
+    df = pd.read_csv("/mnt/d/work/cipo/data/ca_tm_good_services_term_1000.csv")
+    doc_list = df.to_dict('records')
+    # for doc in df_dict:
+    #     print(doc)
+    es.index(index=f"cipo-ca_tm_goods_services_term", body=doc_list[0])
+    
