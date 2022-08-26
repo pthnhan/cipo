@@ -20,6 +20,7 @@ def _get(es_obj=None, _index:str=None, _id:int=None,):
     res = es_obj.get(index=_index, id=_id, ignore=404)
     print(res)
 
+## 106, 215, 341, 449
 
 def _search_keyword(es_obj=None, keyword:str=None):
 
